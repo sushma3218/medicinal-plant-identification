@@ -1,0 +1,5 @@
+Model,Test_Accuracy,Test_Macro_F1,Test_Macro_Precision,Test_Macro_Recall
+custom_cnn,0.3418,0.2141,0.1991,0.2992
+mobilenet_v3_large,0.9564,0.9511,0.9687,0.9528
+efficientnet_b0,0.9455,0.9362,0.9547,0.9366
+resnet50,1.0,1.0,1.0,1.0
