@@ -1,0 +1,1280 @@
+filepath,filename,class_name,label,width,height,channels,format,phash,group_id,split
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-001.jpg,AG-S-001.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada9236a4ad39,grp_101,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-002.jpg,AG-S-002.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e24ade90b1a79ab2,grp_0,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-003.jpg,AG-S-003.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a98b1a7aca1ae,grp_1,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-004.jpg,AG-S-004.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e24ad891b3ab9ab2,grp_2,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-005.jpg,AG-S-005.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea48da90b7a4a9ab,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-006.jpg,AG-S-006.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9ab1a7aca92a,grp_1,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-007.jpg,AG-S-007.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ade90b7a4aca1,grp_4,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-008.jpg,AG-S-008.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,fa40de90b3a7aca1,grp_102,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-009.jpg,AG-S-009.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada92b6a4a9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-010.jpg,AG-S-010.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a92b6a4ada3aa,grp_103,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-011.jpg,AG-S-011.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ade90b3a6aca1,grp_4,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-012.jpg,AG-S-012.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea6aca9ab2a6aca1,grp_104,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-013.jpg,AG-S-013.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90b7a4a9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-014.jpg,AG-S-014.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9ab2a6aca9a3,grp_5,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-017.jpg,AG-S-017.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e8cb9833e60deb0a,grp_107,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-018.jpg,AG-S-018.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9ab0a7aca9a3,grp_5,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-019.jpg,AG-S-019.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e24ed891b7a4a9a3,grp_108,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-020.jpg,AG-S-020.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90b7a4a9a9,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-021.jpg,AG-S-021.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9a90a7aca9ab,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-023.jpg,AG-S-023.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9ab0a7aca9a3,grp_5,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-024.jpg,AG-S-024.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90a7aca9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-025.jpg,AG-S-025.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,bfe08f98b306ec09,grp_110,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-027.jpg,AG-S-027.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90b7a4a9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-028.jpg,AG-S-028.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e24ace98b1a39bb2,grp_0,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-029.jpg,AG-S-029.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ad893b6a4a9a9,grp_7,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-030.jpg,AG-S-030.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,fa42de90b587b0a6,grp_111,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-031.jpg,AG-S-031.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ad891a3ab9ab2,grp_2,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-032.jpg,AG-S-032.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,fa4ada32e60ca92b,grp_112,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-033.jpg,AG-S-033.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e24ad891b7ae8ab2,grp_2,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-034.jpg,AG-S-034.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,eb4ad892b6a4ada1,grp_7,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-035.jpg,AG-S-035.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4a9ab0a7aca98b,grp_5,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-038.jpg,AG-S-038.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ade9031a79ab2,grp_0,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-039.jpg,AG-S-039.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,eac29eb0a72de903,grp_114,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-040.jpg,AG-S-040.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ad891a79ab2a6,grp_115,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-041.jpg,AG-S-041.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90a7aca9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-042.jpg,AG-S-042.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,e84ada90b7a4ada9,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-043.jpg,AG-S-043.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90b3a6aca5,grp_4,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-044.jpg,AG-S-044.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada12f684bda1,grp_116,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-045.jpg,AG-S-045.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90b7a4a9a3,grp_3,train
+data/medicinal_leaves\Alpinia Galanga (Rasna)\AG-S-047.jpg,AG-S-047.jpg,Alpinia Galanga (Rasna),0,1600,1200,3,JPG,ea4ada90a78cb8a7,grp_118,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-004.jpg,AV-S-004.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0ccc39e8d711c37,grp_125,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-005.jpg,AV-S-005.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e16593b68c9bcc89,grp_126,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-010.jpg,AV-S-010.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b131cb64ccceccca,grp_130,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-011.jpg,AV-S-011.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b598c34d9c64e837,grp_131,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-012.jpg,AV-S-012.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e563d2909c6dc9e4,grp_132,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-013.jpg,AV-S-013.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b431c3979dca718c,grp_133,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-016.jpg,AV-S-016.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b467c392cd59463c,grp_136,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-017.jpg,AV-S-017.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0199335cf63ccc6,grp_137,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-019.jpg,AV-S-019.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b067c372cd1eccc8,grp_139,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-020.jpg,AV-S-020.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b06993b48fd2c8cb,grp_140,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-022.jpg,AV-S-022.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,a6cdca3899c7313c,grp_142,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-023.jpg,AV-S-023.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b033cbe0cc0f3ed8,grp_143,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-024.jpg,AV-S-024.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b236cb33cc1bccc8,grp_144,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-025.jpg,AV-S-025.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b4cec3a2cd99cc19,grp_145,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-026.jpg,AV-S-026.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b2cecb388c71e067,grp_146,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-027.jpg,AV-S-027.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b130cbb3cccbc49c,grp_147,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-028.jpg,AV-S-028.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e13997a59a16c9c9,grp_148,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-029.jpg,AV-S-029.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b8b0d34dcd94e4c3,grp_149,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-030.jpg,AV-S-030.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b06cc337cdc16c0f,grp_150,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-031.jpg,AV-S-031.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0c3c32dcd70ec33,grp_8,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-032.jpg,AV-S-032.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,be3cc898c5cd26c6,grp_151,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-033.jpg,AV-S-033.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b02cd3b0cf4bccc9,grp_9,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-034.jpg,AV-S-034.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b03cc9d1ce8de6c4,grp_152,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-035.jpg,AV-S-035.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b03ccb93cccb4ccc,grp_153,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-036.jpg,AV-S-036.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b424c3b2cd1bcecc,grp_154,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-037.jpg,AV-S-037.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b463c3b0cf1bccc8,grp_155,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-038.jpg,AV-S-038.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b03cc393cdcbcc86,grp_156,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-039.jpg,AV-S-039.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b09ec3678cb2ccc9,grp_157,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-040.jpg,AV-S-040.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b08ec369cf24ec3a,grp_158,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-042.jpg,AV-S-042.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0cbc32ccd72cc33,grp_8,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-043.jpg,AV-S-043.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b02ecbf3cc1fc4c0,grp_160,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-044.jpg,AV-S-044.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b09bc36d8d64cc36,grp_161,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-046.jpg,AV-S-046.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b4c3d229cf3ccc98,grp_163,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-048.jpg,AV-S-048.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b030cbe38d8fe4cc,grp_165,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-049.jpg,AV-S-049.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b098c369cf266cf2,grp_166,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-051.jpg,AV-S-051.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,bcc6d236cd39c498,grp_168,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-052.jpg,AV-S-052.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b09acb6d8c36e471,grp_169,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-053.jpg,AV-S-053.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b1239362cf9aecc8,grp_170,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-055.jpg,AV-S-055.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b034cbf38c9dc4cc,grp_172,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-057.jpg,AV-S-057.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b91f97e0ca174c70,grp_174,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-059.jpg,AV-S-059.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b036c3f2cd8f8cc8,grp_176,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-060.jpg,AV-S-060.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0c9cb2ece32e631,grp_177,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-061.jpg,AV-S-061.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b4e7c3328d19ccc9,grp_178,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-062.jpg,AV-S-062.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,bc4dd2b4cf0b4c25,grp_179,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-064.jpg,AV-S-064.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,f8319621cbc7c9c6,grp_181,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-066.jpg,AV-S-066.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b09ec361cd36649b,grp_183,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-068.jpg,AV-S-068.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e13892e19f4ecccc,grp_185,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-069.jpg,AV-S-069.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b134c3e3cd1fccc0,grp_186,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-070.jpg,AV-S-070.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b071c3938dc9ec8e,grp_187,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-071.jpg,AV-S-071.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b037cbd1cc8d36c4,grp_188,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-072.jpg,AV-S-072.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,bc3bd230cd49c6cc,grp_189,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-073.jpg,AV-S-073.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0cec36d8d32cc71,grp_190,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-075.jpg,AV-S-075.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b08bc36ccd36e433,grp_192,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-077.jpg,AV-S-077.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0cfcb2ccd70c433,grp_194,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-078.jpg,AV-S-078.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e1cb923c9c61cc3e,grp_195,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-079.jpg,AV-S-079.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0c3cb2ccd36c473,grp_196,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-080.jpg,AV-S-080.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,f199921dcf61cc26,grp_197,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-081.jpg,AV-S-081.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b09bc36dcd26cc86,grp_198,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-082.jpg,AV-S-082.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b0c7c396cd796429,grp_199,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-084.jpg,AV-S-084.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e16897a59e16d8d8,grp_201,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-085.jpg,AV-S-085.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b19ec3698c34ec72,grp_202,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-086.jpg,AV-S-086.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b02cd3b0cd9bccc9,grp_9,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-087.jpg,AV-S-087.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e1ca973c9a60e927,grp_203,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-089.jpg,AV-S-089.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e5619e9639196665,grp_205,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-090.jpg,AV-S-090.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e99697c89a3d9c24,grp_206,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-091.jpg,AV-S-091.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b1cf923ccb30cc71,grp_207,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-092.jpg,AV-S-092.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b4b79260cb35ccd8,grp_208,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-095.jpg,AV-S-095.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e1339763ca2d0dc6,grp_211,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-097.jpg,AV-S-097.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e19693699ee4cc16,grp_213,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-098.jpg,AV-S-098.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b093d369cd34ccf0,grp_10,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-099.jpg,AV-S-099.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e19f96789a25c962,grp_214,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-101.jpg,AV-S-101.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e13496e3da1f09d8,grp_216,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-102.jpg,AV-S-102.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b168d3b48f5ac88b,grp_217,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-103.jpg,AV-S-103.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b193d2e88f2cccf0,grp_218,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-104.jpg,AV-S-104.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e1929669da2da5e2,grp_219,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-105.jpg,AV-S-105.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b097d368cf34cc70,grp_10,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-106.jpg,AV-S-106.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,adcbc0b48f0b9cb4,grp_220,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-108.jpg,AV-S-108.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b13693e1cf178cc8,grp_222,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-109.jpg,AV-S-109.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b1ce939ccc39e431,grp_223,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-110.jpg,AV-S-110.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e31c96e11a0fe9f0,grp_224,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-111.jpg,AV-S-111.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,e79a96a5186ae1a5,grp_225,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-112.jpg,AV-S-112.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b1369361cb278cda,grp_226,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-113.jpg,AV-S-113.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b4cbc20dcf348c73,grp_227,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-116.jpg,AV-S-116.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b983d268cf0eacf0,grp_230,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-117.jpg,AV-S-117.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b092d369cf34cc72,grp_10,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-121.jpg,AV-S-121.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,eb95946a182de3e4,grp_234,train
+data/medicinal_leaves\Amaranthus Viridis (Arive-Dantu)\AV-S-122.jpg,AV-S-122.jpg,Amaranthus Viridis (Arive-Dantu),1,1600,1200,3,JPG,b69bc3e48d2718b4,grp_235,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-001.jpg,AH-S-001.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb6b94a59294da92,grp_237,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-002.jpg,AH-S-002.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb29956196879a36,grp_238,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-003.jpg,AH-S-003.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea4a85ad96b498b6,grp_239,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-004.jpg,AH-S-004.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e9c9943d9eb09833,grp_240,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-005.jpg,AH-S-005.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea64859f97989ac1,grp_241,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-006.jpg,AH-S-006.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6a95258fb49c92,grp_11,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-007.jpg,AH-S-007.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb619597ca928c9a,grp_242,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-008.jpg,AH-S-008.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea25947286afda92,grp_243,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-009.jpg,AH-S-009.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ef689425ca9e8d98,grp_244,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-011.jpg,AH-S-011.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6b850d9eb49a92,grp_246,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-013.jpg,AH-S-013.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6a85259eb49c96,grp_11,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-014.jpg,AH-S-014.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e84b953d9ab039c3,grp_248,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-015.jpg,AH-S-015.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6a85a59eb49c92,grp_11,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-016.jpg,AH-S-016.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eac2959d9e701a63,grp_249,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-017.jpg,AH-S-017.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eacb95a59e349832,grp_250,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-018.jpg,AH-S-018.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6b859d9eb01893,grp_251,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-019.jpg,AH-S-019.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6a952d96b49e90,grp_12,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-020.jpg,AH-S-020.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ebc0941fca3cc971,grp_252,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-021.jpg,AH-S-021.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb4b95359e969812,grp_253,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-022.jpg,AH-S-022.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea4a95ad9eb09893,grp_254,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-023.jpg,AH-S-023.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e9c3953d9a706923,grp_13,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-026.jpg,AH-S-026.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e94a95b59eb01993,grp_256,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-027.jpg,AH-S-027.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea62953596d69a92,grp_257,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-029.jpg,AH-S-029.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e8ca953d9a707923,grp_13,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-030.jpg,AH-S-030.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e9c997349af019c3,grp_259,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-031.jpg,AH-S-031.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,e96b96259e949896,grp_260,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-034.jpg,AH-S-034.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6b952587968e92,grp_263,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-036.jpg,AH-S-036.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb9a958f9a6cca20,grp_265,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-037.jpg,AH-S-037.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea3d85d096839ace,grp_266,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-038.jpg,AH-S-038.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb6895879e94c89a,grp_267,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-041.jpg,AH-S-041.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea6a85259ff49892,grp_11,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-042.jpg,AH-S-042.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ebc995a59e10d833,grp_270,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-044.jpg,AH-S-044.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea4a852d96bc9e94,grp_12,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-045.jpg,AH-S-045.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ef3594f0c281cbc3,grp_272,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-046.jpg,AH-S-046.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eb69944292b69f92,grp_273,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-048.jpg,AH-S-048.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ed37946092879ad6,grp_275,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-049.jpg,AH-S-049.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea5ab5a897859e12,grp_276,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-050.jpg,AH-S-050.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea68956587b49e92,grp_11,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-055.jpg,AH-S-055.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,eac3951f923cda30,grp_280,train
+data/medicinal_leaves\Artocarpus Heterophyllus (Jackfruit)\AH-S-056.jpg,AH-S-056.jpg,Artocarpus Heterophyllus (Jackfruit),2,1600,1200,3,JPG,ea9695d89e49d825,grp_281,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-004.jpg,AI-S-004.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf10d06ccbd23789,grp_282,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-005.jpg,AI-S-005.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bfc0d0b685396678,grp_283,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-006.jpg,AI-S-006.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3ed04ac9a546c2,grp_284,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-007.jpg,AI-S-007.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,eb92857a1e65d09c,grp_285,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-008.jpg,AI-S-008.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,eb1e95c2da4e2329,grp_286,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-009.jpg,AI-S-009.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3ed05bc88526c2,grp_287,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-011.jpg,AI-S-011.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bfc0d097e5396270,grp_289,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-012.jpg,AI-S-012.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ea3495cb3a3960e3,grp_290,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-013.jpg,AI-S-013.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf38c0934bc91f34,grp_15,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-015.jpg,AI-S-015.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3ed080634037b7,grp_292,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-017.jpg,AI-S-017.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bfc0d0274f37a498,grp_294,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-018.jpg,AI-S-018.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf9fd048c1b44693,grp_295,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-019.jpg,AI-S-019.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bfc0d0376c39c29c,grp_296,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-020.jpg,AI-S-020.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf81c06cc6b61ad9,grp_297,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-021.jpg,AI-S-021.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf7cd09242893766,grp_298,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-022.jpg,AI-S-022.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ed96d4e1982d3714,grp_299,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-024.jpg,AI-S-024.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,eb978562382cb789,grp_301,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-025.jpg,AI-S-025.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3cd092c2c907e6,grp_302,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-026.jpg,AI-S-026.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ed9b922439c7e198,grp_303,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-028.jpg,AI-S-028.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf35d0d249cd8436,grp_305,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-029.jpg,AI-S-029.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bfc3d03d493a8691,grp_306,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-030.jpg,AI-S-030.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf38c0934acb8f34,grp_15,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-031.jpg,AI-S-031.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,e69c99659926c933,grp_307,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-033.jpg,AI-S-033.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ea9285681ee5f09e,grp_309,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-034.jpg,AI-S-034.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3cc0c34fad3418,grp_310,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-035.jpg,AI-S-035.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ea95c16a1de7d04c,grp_311,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-036.jpg,AI-S-036.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,bf3fc0c0680f353c,grp_312,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-038.jpg,AI-S-038.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b366cc9b9899998c,grp_314,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-042.jpg,AI-S-042.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,eac2953d7ac26c1c,grp_318,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-043.jpg,AI-S-043.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b332cccf8ccc8999,grp_319,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-046.jpg,AI-S-046.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,ea958542396fe7c0,grp_321,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-047.jpg,AI-S-047.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b0ccc7b54c7a3495,grp_322,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-048.jpg,AI-S-048.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,be3ec3c06c4f0734,grp_323,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-051.jpg,AI-S-051.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,e6989971cc669966,grp_324,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-054.jpg,AI-S-054.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b399cd64cc62cc33,grp_18,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-055.jpg,AI-S-055.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,e79b996d98668826,grp_325,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-056.jpg,AI-S-056.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b399cd6c98669866,grp_19,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-059.jpg,AI-S-059.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b399cd6498669966,grp_19,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-060.jpg,AI-S-060.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,b399cd648c33cc33,grp_18,train
+data/medicinal_leaves\Azadirachta Indica (Neem)\AI-S-061.jpg,AI-S-061.jpg,Azadirachta Indica (Neem),3,1600,1200,3,JPG,eaa1951e7ae1c50e,grp_327,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-003.jpg,BA-S-003.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b6c3c239cb389d38,grp_332,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-004.jpg,BA-S-004.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bc9b92c8cb2d8d64,grp_333,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-005.jpg,BA-S-005.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bc97924ac325cf62,grp_334,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-007.jpg,BA-S-007.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e88f96c1c33c8b63,grp_336,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-009.jpg,BA-S-009.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f8699525c2368fb2,grp_338,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-012.jpg,BA-S-012.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f83f9560d2348b53,grp_341,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-013.jpg,BA-S-013.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e84e9785c352cb8b,grp_342,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-014.jpg,BA-S-014.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bd60d20fc9f2c991,grp_343,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-016.jpg,BA-S-016.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e593c3389e399865,grp_345,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-017.jpg,BA-S-017.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e1c6ce38987131e7,grp_346,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-020.jpg,BA-S-020.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b8c1970fc3308ff2,grp_349,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-021.jpg,BA-S-021.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b89c974acba1cd46,grp_350,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-023.jpg,BA-S-023.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b092934bcf65cc36,grp_352,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-024.jpg,BA-S-024.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f8cd954ed23c8b18,grp_353,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-025.jpg,BA-S-025.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bfc9900fc2bcc94c,grp_354,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-026.jpg,BA-S-026.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e14b9725d2729ba2,grp_355,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-027.jpg,BA-S-027.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e89e95c9d2598a2d,grp_356,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-028.jpg,BA-S-028.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,fac0952fd274cb30,grp_357,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-029.jpg,BA-S-029.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e894954ed2a99bc5,grp_358,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-033.jpg,BA-S-033.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e492c7199ee19867,grp_362,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-034.jpg,BA-S-034.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cfc3308f6998b2,grp_363,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-035.jpg,BA-S-035.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f1309673cb6189cd,grp_364,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-037.jpg,BA-S-037.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0cccb34cd32ce63,grp_366,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-040.jpg,BA-S-040.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b499c3659ee29827,grp_369,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-042.jpg,BA-S-042.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b1649296cbd3cc99,grp_371,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-043.jpg,BA-S-043.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b69bc1798361cd64,grp_372,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-045.jpg,BA-S-045.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0cc9b63cb38cc1b,grp_373,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-047.jpg,BA-S-047.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f1c996b4c972cc25,grp_374,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-048.jpg,BA-S-048.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e5cec6389861d927,grp_375,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-050.jpg,BA-S-050.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4c3c34c9f3cd831,grp_377,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-052.jpg,BA-S-052.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e1699794ca524dcb,grp_379,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-054.jpg,BA-S-054.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cfc33c98b09933,grp_381,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-055.jpg,BA-S-055.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e50cce6d98b69986,grp_382,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-056.jpg,BA-S-056.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cdc72c9e329833,grp_383,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-057.jpg,BA-S-057.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b093926dcb65cd34,grp_384,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-059.jpg,BA-S-059.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cdc3b29e2e9892,grp_386,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-060.jpg,BA-S-060.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0ce9b62c93ccc33,grp_387,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-062.jpg,BA-S-062.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b41dc3708f27ccc6,grp_389,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-063.jpg,BA-S-063.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,f1c1963ccbc3cd03,grp_390,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-064.jpg,BA-S-064.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b032c36dcdb2ce49,grp_391,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-065.jpg,BA-S-065.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b091936fcb30cd39,grp_392,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-066.jpg,BA-S-066.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b49cd365cd70cc13,grp_393,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-067.jpg,BA-S-067.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,a49cc3619e6dd836,grp_394,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-068.jpg,BA-S-068.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cfc33c9e60c833,grp_395,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-069.jpg,BA-S-069.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b09cd3e1cd39cc32,grp_396,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-071.jpg,BA-S-071.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b438c3618f679cc6,grp_398,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-073.jpg,BA-S-073.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b18b9670cb368dc3,grp_400,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-074.jpg,BA-S-074.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b49cc3e19f479826,grp_401,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-075.jpg,BA-S-075.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b03c9363cd59cc8e,grp_402,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-076.jpg,BA-S-076.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b493c3369e6298c7,grp_403,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-077.jpg,BA-S-077.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b64cc3b2cf23cc43,grp_404,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-078.jpg,BA-S-078.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b41dc3f0cb438f07,grp_405,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-079.jpg,BA-S-079.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4cd9392c92bcde0,grp_406,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-080.jpg,BA-S-080.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0639336cb33cc99,grp_407,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-082.jpg,BA-S-082.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4c9c33a8f34cd61,grp_409,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-084.jpg,BA-S-084.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0cd93b4cf38cd21,grp_411,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-085.jpg,BA-S-085.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b06cd392cf1bcc98,grp_412,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-086.jpg,BA-S-086.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b8619606cbb4cf5a,grp_413,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-087.jpg,BA-S-087.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b06cd332cd39ccc3,grp_414,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-088.jpg,BA-S-088.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b0cfd38ccd6ccc30,grp_415,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-089.jpg,BA-S-089.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e49ac7599c699964,grp_416,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-091.jpg,BA-S-091.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e58c96399a339966,grp_418,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-092.jpg,BA-S-092.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b4c3c30d9f34d869,grp_419,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-093.jpg,BA-S-093.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bce192c3c38f894e,grp_420,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-095.jpg,BA-S-095.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e4cdc61c9a31d933,grp_422,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-096.jpg,BA-S-096.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e48ec74c9a399933,grp_423,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-098.jpg,BA-S-098.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e48cc7c99e59d831,grp_425,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-099.jpg,BA-S-099.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,e10c9727cab2c93e,grp_426,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-100.jpg,BA-S-100.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b496c26d9f1ad894,grp_427,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-101.jpg,BA-S-101.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,b49ec3c99e2dc861,grp_428,train
+data/medicinal_leaves\Basella Alba (Basale)\BA-S-102.jpg,BA-S-102.jpg,Basella Alba (Basale),4,1600,1200,3,JPG,bc96d24bcf608e0d,grp_429,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-002.jpg,BJ-S-002.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,e1cd96389a33d932,grp_432,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-004.jpg,BJ-S-004.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,a5f0c21f9ec199e4,grp_434,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-005.jpg,BJ-S-005.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,ea999562b42c97c5,grp_435,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-006.jpg,BJ-S-006.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,e53986e398ce991c,grp_436,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-007.jpg,BJ-S-007.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,f16996948ed2c94d,grp_437,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-008.jpg,BJ-S-008.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b438d361cdcb8c96,grp_438,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-009.jpg,BJ-S-009.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,be69c1b6c248cf89,grp_439,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-010.jpg,BJ-S-010.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b024d373cf934cc9,grp_440,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-011.jpg,BJ-S-011.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,bc8cd3d0cf2d8c61,grp_441,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-012.jpg,BJ-S-012.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b848c39dcd6a8cb6,grp_442,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-013.jpg,BJ-S-013.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b09b93a5cd66cc62,grp_443,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-014.jpg,BJ-S-014.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,e5339ece599c2429,grp_444,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-015.jpg,BJ-S-015.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,be1d91b0cb418d8f,grp_445,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-016.jpg,BJ-S-016.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b4c7d39ecd38a430,grp_446,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-017.jpg,BJ-S-017.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,be3c90b0cac38dcd,grp_447,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-019.jpg,BJ-S-019.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,bc99d399cb648664,grp_449,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-022.jpg,BJ-S-022.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b8969349cfb48c72,grp_452,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-024.jpg,BJ-S-024.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,be318192cbc9acda,grp_454,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-025.jpg,BJ-S-025.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b0ce8794cb4b9c35,grp_455,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-026.jpg,BJ-S-026.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b8cf9396cf508c29,grp_456,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-027.jpg,BJ-S-027.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,e16986a59a5a99b5,grp_457,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-028.jpg,BJ-S-028.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,b0d9c336c9429ce7,grp_458,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-030.jpg,BJ-S-030.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,f04b87b4cb4bc8b4,grp_460,train
+data/medicinal_leaves\Brassica Juncea (Indian Mustard)\BJ-S-032.jpg,BJ-S-032.jpg,Brassica Juncea (Indian Mustard),5,1600,1200,3,JPG,e8da87ccda349c61,grp_462,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-005.jpg,CC-S-005.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b438c363cd87cccc,grp_468,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-006.jpg,CC-S-006.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c9d336cf61cc14,grp_469,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-007.jpg,CC-S-007.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c3c30fcb3c8d70,grp_470,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-009.jpg,CC-S-009.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b42cc312cfd3cc8b,grp_472,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-010.jpg,CC-S-010.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c1c31ecfe8cc34,grp_473,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-014.jpg,CC-S-014.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b42cd2f2cb23cc93,grp_477,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-015.jpg,CC-S-015.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b6c1c19fcd2ccc34,grp_22,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-016.jpg,CC-S-016.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b23cc1b1cd61ce93,grp_478,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-017.jpg,CC-S-017.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b49ac368cf66cc26,grp_23,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-020.jpg,CC-S-020.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b565c2b68f12cc99,grp_480,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-021.jpg,CC-S-021.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b692d269cf96cc18,grp_481,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-022.jpg,CC-S-022.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c9c31ecf68cce0,grp_482,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-023.jpg,CC-S-023.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b48cd229cfe4cc33,grp_483,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-024.jpg,CC-S-024.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,bcc4d01ecbfacd01,grp_484,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-025.jpg,CC-S-025.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b461c2368fd3cc8b,grp_485,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-028.jpg,CC-S-028.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b43cd230cbf1ccc3,grp_488,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-029.jpg,CC-S-029.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b5e1c2178ff0cc07,grp_489,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-030.jpg,CC-S-030.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b438d2c9cf2ccc66,grp_490,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-031.jpg,CC-S-031.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4ccd316cfd0cc23,grp_491,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-032.jpg,CC-S-032.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c9c18ccf64ce36,grp_492,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-033.jpg,CC-S-033.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b42cc3b2cf638c8b,grp_493,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-034.jpg,CC-S-034.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b42cc392cd19cecd,grp_494,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-035.jpg,CC-S-035.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c1c30fcf78cc32,grp_24,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-036.jpg,CC-S-036.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b461c3168df1cc8f,grp_495,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-037.jpg,CC-S-037.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c0c30fcf7ccc23,grp_24,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-038.jpg,CC-S-038.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b41cc178cd13cee3,grp_25,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-039.jpg,CC-S-039.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b2ccc39fcf60cc06,grp_26,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-042.jpg,CC-S-042.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,bc31d2cccb29cdd0,grp_29,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-043.jpg,CC-S-043.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,bd29d234cb328da3,grp_30,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-044.jpg,CC-S-044.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b6e1c193cd1dce18,grp_31,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-046.jpg,CC-S-046.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b49ac369cf26cc32,grp_23,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-047.jpg,CC-S-047.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c0c30fcf7ccc23,grp_24,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-048.jpg,CC-S-048.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,bd29d234cb328da3,grp_30,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-049.jpg,CC-S-049.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b41cc178cd13cee3,grp_25,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-050.jpg,CC-S-050.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b2ccc39fcf60cc06,grp_26,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-053.jpg,CC-S-053.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b49ac369cf26cc32,grp_23,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-055.jpg,CC-S-055.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b6e1c193cd1dce18,grp_31,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-056.jpg,CC-S-056.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,bc31d2cccb29cdd0,grp_29,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-058.jpg,CC-S-058.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b59ad2c98f4dcc24,grp_497,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-060.jpg,CC-S-060.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c8d28ecf48cc37,grp_498,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-061.jpg,CC-S-061.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c1d38e8f70cc36,grp_499,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-062.jpg,CC-S-062.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4c8c30f8ff0cc27,grp_500,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-064.jpg,CC-S-064.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b4cec36ccf16cc30,grp_502,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-065.jpg,CC-S-065.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b465c336cf31cc19,grp_503,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-067.jpg,CC-S-067.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b49bc368cf26cc32,grp_23,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-068.jpg,CC-S-068.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b537c2e08f178c9c,grp_504,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-070.jpg,CC-S-070.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b6c0d18fcd3ccc34,grp_22,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-071.jpg,CC-S-071.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b6c0c19fcd3cce30,grp_22,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-072.jpg,CC-S-072.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b41cc3c1cd86ce67,grp_505,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-073.jpg,CC-S-073.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b0cec3cd8c3ccc71,grp_506,train
+data/medicinal_leaves\Carissa Carandas (Karanda)\CC-S-074.jpg,CC-S-074.jpg,Carissa Carandas (Karanda),6,1600,1200,3,JPG,b49bc30dcf60cc36,grp_507,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-002.jpg,CL-S-002.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd60d036cbda8d89,grp_508,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-003.jpg,CL-S-003.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e89b97c8da25b960,grp_509,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-004.jpg,CL-S-004.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,a10ec6f09e1f69f0,grp_510,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-005.jpg,CL-S-005.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bc3c90e0cb87cdca,grp_511,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-006.jpg,CL-S-006.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b4c9c21ecf78cc31,grp_512,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-007.jpg,CL-S-007.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,f89c85cace6dc864,grp_513,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-010.jpg,CL-S-010.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b561c2168ff8cc99,grp_515,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-011.jpg,CL-S-011.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd9cd04bcb65cc22,grp_516,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-013.jpg,CL-S-013.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bc3cd0f0cbc18cc7,grp_518,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-014.jpg,CL-S-014.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b62dc0b0cf4bccd4,grp_519,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-015.jpg,CL-S-015.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bf8fd048cb24cd32,grp_520,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-018.jpg,CL-S-018.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd60d087835ecfb0,grp_523,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-020.jpg,CL-S-020.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,be6dd0b2c342cf81,grp_525,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-021.jpg,CL-S-021.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e51896e3991e2de1,grp_526,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-022.jpg,CL-S-022.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd68d096cb5acf10,grp_35,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-023.jpg,CL-S-023.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e5cd9a300d63669e,grp_527,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-025.jpg,CL-S-025.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b0c7d23ccd59ec21,grp_529,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-028.jpg,CL-S-028.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd99d0c6cb248ce3,grp_532,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-030.jpg,CL-S-030.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bee0c017cf5ace90,grp_534,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-031.jpg,CL-S-031.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e1319ec7c99c2cc9,grp_535,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-032.jpg,CL-S-032.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b9c9d2948f70cc27,grp_536,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-034.jpg,CL-S-034.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bf60d094cb5acf90,grp_35,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-035.jpg,CL-S-035.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e56d9ac659182765,grp_538,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-037.jpg,CL-S-037.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e53492c7999e61c9,grp_540,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-038.jpg,CL-S-038.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e91b87f09e0f98e0,grp_541,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-040.jpg,CL-S-040.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bfc0d085cb5a8db4,grp_543,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-041.jpg,CL-S-041.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e19896e5983e6965,grp_544,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-043.jpg,CL-S-043.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e4ce9a302d6366ce,grp_546,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-044.jpg,CL-S-044.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b84a91a58b1ec9fa,grp_547,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-045.jpg,CL-S-045.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e5d9963519666166,grp_548,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-046.jpg,CL-S-046.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e1cd9630197761c7,grp_549,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-049.jpg,CL-S-049.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e59c966198376966,grp_552,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-050.jpg,CL-S-050.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b6e0c11fcc3ccc78,grp_553,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-051.jpg,CL-S-051.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e46c9ad3191c6765,grp_554,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-052.jpg,CL-S-052.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,bd64c0b68b5abc89,grp_555,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-053.jpg,CL-S-053.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,b869d5258ff6ca02,grp_556,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-055.jpg,CL-S-055.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e9c8973dda606907,grp_558,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-056.jpg,CL-S-056.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e8c3959eda708b31,grp_559,train
+data/medicinal_leaves\Citrus Limon (Lemon)\CL-S-057.jpg,CL-S-057.jpg,Citrus Limon (Lemon),7,1600,1200,3,JPG,e96887e19e1798d2,grp_560,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-001.jpg,FA-S-001.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e03887a5da439acf,grp_561,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-005.jpg,FA-S-005.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e1c796389ac9c9cc,grp_564,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-006.jpg,FA-S-006.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b4ccd23ccb70cd83,grp_565,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-007.jpg,FA-S-007.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b41cc3c9ce87cb49,grp_566,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-008.jpg,FA-S-008.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,bcc0d336c91bcdb0,grp_567,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-009.jpg,FA-S-009.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,ad96c6cbcb498e0c,grp_568,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-010.jpg,FA-S-010.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,f09a97c9ca698d2c,grp_569,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-011.jpg,FA-S-011.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e17394279e869b86,grp_570,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-012.jpg,FA-S-012.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,bc9ad349cb219c6c,grp_571,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-013.jpg,FA-S-013.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e83385cd9c4b9ab1,grp_572,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-014.jpg,FA-S-014.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b499c38dcb648f4c,grp_573,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-016.jpg,FA-S-016.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b49ac3c9c361cf64,grp_575,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-017.jpg,FA-S-017.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,afc0e581c61f961e,grp_576,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-020.jpg,FA-S-020.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,bcc5d206cb3acd38,grp_579,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-021.jpg,FA-S-021.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,bc9ad249c3e1ce4c,grp_580,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-022.jpg,FA-S-022.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e1c6963c9a619b69,grp_581,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-024.jpg,FA-S-024.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e193c65b96959a49,grp_583,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-026.jpg,FA-S-026.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b4cec326cf388c39,grp_584,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-029.jpg,FA-S-029.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b19a9749cb6d8c64,grp_587,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-031.jpg,FA-S-031.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e53086639eced98c,grp_588,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-032.jpg,FA-S-032.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b498d3cdc364cd26,grp_589,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-034.jpg,FA-S-034.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b019d3909b8bcdcd,grp_591,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-036.jpg,FA-S-036.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e196866a9a6799e4,grp_592,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-037.jpg,FA-S-037.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b01cc3c9cde6cc9c,grp_593,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-038.jpg,FA-S-038.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b092d34dcf64cd34,grp_594,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-039.jpg,FA-S-039.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b098d369cf678c26,grp_595,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-040.jpg,FA-S-040.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e59886c99e6798c9,grp_596,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-041.jpg,FA-S-041.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e59a86c9ce3998c9,grp_597,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-042.jpg,FA-S-042.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e19a86cb9e699869,grp_598,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-043.jpg,FA-S-043.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e1cf86989a7198b5,grp_599,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-046.jpg,FA-S-046.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b0c3c33ccf60cd36,grp_602,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-047.jpg,FA-S-047.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b49292c9cb35cd6c,grp_603,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-048.jpg,FA-S-048.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,b09ac33c9e65c867,grp_604,train
+data/medicinal_leaves\Ficus Auriculata (Roxburgh fig)\FA-S-050.jpg,FA-S-050.jpg,Ficus Auriculata (Roxburgh fig),8,1600,1200,3,JPG,e1c786399e3099e3,grp_606,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-001.jpg,FR-S-001.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0cfc9c6cc3e8631,grp_38,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-002.jpg,FR-S-002.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0ccdb38cd31c6c9,grp_39,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-004.jpg,FR-S-004.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b034c99bce69c696,grp_40,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-006.jpg,FR-S-006.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0c7c98ece389639,grp_608,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-010.jpg,FR-S-010.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b098c96ccda6c673,grp_42,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-011.jpg,FR-S-011.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b034cb33cf9986cc,grp_612,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-012.jpg,FR-S-012.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b838c93ecd78c694,grp_613,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-013.jpg,FR-S-013.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b098cb64cdb6c663,grp_42,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-014.jpg,FR-S-014.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0c7c966cd32c6c9,grp_614,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-015.jpg,FR-S-015.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03ccb39cde1c6c2,grp_615,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-016.jpg,FR-S-016.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0679b1acd49ce94,grp_43,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-017.jpg,FR-S-017.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b067db93cd498694,grp_616,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-018.jpg,FR-S-018.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b036db39cd19c68c,grp_617,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-019.jpg,FR-S-019.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0cd9b6ccd26c433,grp_618,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-020.jpg,FR-S-020.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b06c9bb2cd49c6a5,grp_619,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-021.jpg,FR-S-021.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03cd333cd93c44b,grp_620,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-023.jpg,FR-S-023.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b066c91bc5c9c6dc,grp_622,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-024.jpg,FR-S-024.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b066d999cc69c6b4,grp_623,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-027.jpg,FR-S-027.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b1319b32cda58ccb,grp_626,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-028.jpg,FR-S-028.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0e7c98fcc4cc692,grp_627,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-029.jpg,FR-S-029.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0669b93cd49ce94,grp_43,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-030.jpg,FR-S-030.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0d9cb9acc658693,grp_628,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-032.jpg,FR-S-032.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b1ce9b6ccd368431,grp_630,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-033.jpg,FR-S-033.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b09cdb38cd31c659,grp_39,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-034.jpg,FR-S-034.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b08c9bc3cd69c636,grp_631,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-035.jpg,FR-S-035.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0d8d93ccd31c659,grp_632,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-036.jpg,FR-S-036.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0669b33cd99c649,grp_633,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-037.jpg,FR-S-037.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03cc939c6e1c6d6,grp_634,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-042.jpg,FR-S-042.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0cddb24cd62c6b2,grp_638,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-043.jpg,FR-S-043.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0c7c93ccdb2c649,grp_639,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-045.jpg,FR-S-045.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0679b92cd49ccb4,grp_43,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-047.jpg,FR-S-047.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b066d93bc569c698,grp_642,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-048.jpg,FR-S-048.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b09c9b64cd62c6b3,grp_643,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-049.jpg,FR-S-049.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03cc938c479c6f3,grp_644,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-051.jpg,FR-S-051.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b08ec9c3c62dc733,grp_646,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-052.jpg,FR-S-052.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03e9b30cd3986f1,grp_647,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-054.jpg,FR-S-054.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03ccbd3cc61c687,grp_649,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-056.jpg,FR-S-056.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b08cc9c3cc6fc6b2,grp_651,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-057.jpg,FR-S-057.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b070c9cbcccdc666,grp_652,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-058.jpg,FR-S-058.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03cc993ce69c696,grp_40,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-059.jpg,FR-S-059.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0cfc9c6cc32c639,grp_38,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-060.jpg,FR-S-060.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b826c9b9c64dc786,grp_653,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-061.jpg,FR-S-061.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0cd939cc96ecc34,grp_654,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-062.jpg,FR-S-062.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b0c39b8ecd66c632,grp_655,train
+data/medicinal_leaves\Ficus Religiosa (Peepal Tree)\FR-S-063.jpg,FR-S-063.jpg,Ficus Religiosa (Peepal Tree),9,1600,1200,3,JPG,b03cc9d1ce69c696,grp_40,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-001.jpg,HR-S-001.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,bf90d069c526cf34,grp_656,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-003.jpg,HR-S-003.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e16c9e96989b1939,grp_44,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-004.jpg,HR-S-004.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b634cbc38ccf4c1c,grp_658,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-005.jpg,HR-S-005.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e3649b939c99cc49,grp_659,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-006.jpg,HR-S-006.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b366cf99cc993130,grp_45,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-007.jpg,HR-S-007.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b264cb93cccb9c1c,grp_660,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-008.jpg,HR-S-008.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e7649e9298999999,grp_661,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-009.jpg,HR-S-009.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b224cf938ccf8c9c,grp_662,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-012.jpg,HR-S-012.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b366cf998c196266,grp_664,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-013.jpg,HR-S-013.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e14c9e96989b9933,grp_44,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-014.jpg,HR-S-014.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b2c6cf99cc393226,grp_665,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-017.jpg,HR-S-017.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b3cccd934c313267,grp_667,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-019.jpg,HR-S-019.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b266cf99cc193133,grp_45,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-020.jpg,HR-S-020.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b066c392ccd99c9d,grp_669,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-021.jpg,HR-S-021.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e3649ac7cc98cc99,grp_670,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-022.jpg,HR-S-022.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b064cbb3cc996c99,grp_671,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-023.jpg,HR-S-023.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b897d04acf254e72,grp_672,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-025.jpg,HR-S-025.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b266cf9b8c393891,grp_674,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-027.jpg,HR-S-027.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e56c9e96989b1919,grp_44,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-028.jpg,HR-S-028.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,bc3dd0e04f87345a,grp_676,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-029.jpg,HR-S-029.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,ba97c3480eb570f2,grp_677,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-030.jpg,HR-S-030.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e5c6c6189e799833,grp_678,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-031.jpg,HR-S-031.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e52dc6e09e0e99d8,grp_679,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-032.jpg,HR-S-032.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e519c6e19e0e99f0,grp_680,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-036.jpg,HR-S-036.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,a56dc6669e2698e2,grp_684,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-037.jpg,HR-S-037.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,a499c79c9ec99836,grp_685,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-038.jpg,HR-S-038.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e46c86c39e9e9991,grp_686,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-039.jpg,HR-S-039.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,edc3c63c9e6098a5,grp_687,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-042.jpg,HR-S-042.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,e5e2c61c9ee19907,grp_690,train
+data/medicinal_leaves\Hibiscus Rosa-sinensis\HR-S-043.jpg,HR-S-043.jpg,Hibiscus Rosa-sinensis,10,1600,1200,3,JPG,b06d9396cd4bcc34,grp_691,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-003.jpg,J-S-003.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b092c349cf6cce66,grp_47,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-004.jpg,J-S-004.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b49cd361c986cc73,grp_694,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-005.jpg,J-S-005.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b092c349cf65ce66,grp_47,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-006.jpg,J-S-006.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b4ccc3db8e999889,grp_695,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-007.jpg,J-S-007.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,eab585d09c4b9d0e,grp_696,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-008.jpg,J-S-008.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,ea3c85c29e0f9a6c,grp_697,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-009.jpg,J-S-009.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b4e4c33b8ec1cc8e,grp_698,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-011.jpg,J-S-011.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,f04993a48fcec94b,grp_700,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-012.jpg,J-S-012.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e19c86c39eb79849,grp_701,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-014.jpg,J-S-014.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc4b90a5cbdacb28,grp_703,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-015.jpg,J-S-015.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,f190964bcb85cd66,grp_704,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-016.jpg,J-S-016.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b0cf9294cb76c938,grp_705,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-018.jpg,J-S-018.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b849d394cb5ace29,grp_707,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-021.jpg,J-S-021.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc32d2c9cb85cd8a,grp_710,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-022.jpg,J-S-022.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b098d32dcdc2cce3,grp_711,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-023.jpg,J-S-023.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc6cd0b68b1acc99,grp_712,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-024.jpg,J-S-024.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc65d096c51bce89,grp_713,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-025.jpg,J-S-025.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b41ec3e1c8c1cdc7,grp_714,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-029.jpg,J-S-029.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc9e90c8cbe5c866,grp_718,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-030.jpg,J-S-030.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,be1f9078cb25cd42,grp_719,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-032.jpg,J-S-032.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,a6cbcb0c9c709973,grp_721,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-033.jpg,J-S-033.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,a4ccc3629e369973,grp_722,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-034.jpg,J-S-034.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b432c3618fcd98c7,grp_723,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-035.jpg,J-S-035.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b4c7c31ed838c939,grp_724,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-037.jpg,J-S-037.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc61d0b4cd98cec9,grp_726,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-038.jpg,J-S-038.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc1cd0b0cb63cde1,grp_727,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-040.jpg,J-S-040.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b46cc296cf12ce99,grp_729,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-041.jpg,J-S-041.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b4c4c31f8ff88c31,grp_730,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-042.jpg,J-S-042.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b698c38f8f708c3c,grp_731,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-043.jpg,J-S-043.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e83d85d0ce8f9a46,grp_732,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-046.jpg,J-S-046.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b49a9349c965cea5,grp_735,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-047.jpg,J-S-047.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e5c1c61c9e7898b3,grp_736,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-048.jpg,J-S-048.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b89e92c9cb2d8d64,grp_737,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-049.jpg,J-S-049.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b4c3c3cdcd2cce18,grp_738,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-051.jpg,J-S-051.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b49cc3e1cf25cc62,grp_740,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-052.jpg,J-S-052.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc61c29fcb4c8d98,grp_741,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-053.jpg,J-S-053.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b49ac369cd64cc66,grp_742,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-055.jpg,J-S-055.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b58fc2c08f391d78,grp_744,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-056.jpg,J-S-056.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e91f87d0d8cb980d,grp_745,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-057.jpg,J-S-057.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,ed38c6878fe69830,grp_746,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-058.jpg,J-S-058.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e83d85c29e99cac5,grp_747,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-059.jpg,J-S-059.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,adcdc2909f0f98f0,grp_748,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-062.jpg,J-S-062.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,bc99d048cb65ce66,grp_751,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-063.jpg,J-S-063.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,b0c7c39ecd18cc99,grp_752,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-065.jpg,J-S-065.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,e9c1861ed63c9bb0,grp_754,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-066.jpg,J-S-066.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,ad85c47a8f24dae4,grp_755,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-067.jpg,J-S-067.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,adc5d45a8f38d870,grp_756,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-069.jpg,J-S-069.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,eb97c5d09e03984d,grp_758,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-070.jpg,J-S-070.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,eb6c85179ed09893,grp_48,train
+data/medicinal_leaves\Jasminum (Jasmine)\J-S-071.jpg,J-S-071.jpg,Jasminum (Jasmine),11,1600,1200,3,JPG,eb6c85169ef89813,grp_48,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-001.jpg,MI-S-001.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,b83acdc5e2c1e073,grp_759,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-002.jpg,MI-S-002.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,e9cb9a32e60cf107,grp_760,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-003.jpg,MI-S-003.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fae5851a6aa0a15f,grp_761,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-004.jpg,MI-S-004.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be4ec1b03e4bf0a4,grp_762,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-005.jpg,MI-S-005.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf1fc0e03e179268,grp_763,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-006.jpg,MI-S-006.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be9dc0606f97b058,grp_764,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-007.jpg,MI-S-007.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,f894cb65b65a3119,grp_765,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-009.jpg,MI-S-009.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,ba3c95c260b49f53,grp_767,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-010.jpg,MI-S-010.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,f8bc9e47a552a151,grp_768,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-011.jpg,MI-S-011.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be95c16a359648ad,grp_769,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-013.jpg,MI-S-013.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf68c0973d604b1e,grp_771,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-014.jpg,MI-S-014.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf6ac09f3d606a42,grp_772,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-015.jpg,MI-S-015.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,f83a8785687a9e85,grp_773,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-017.jpg,MI-S-017.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be6ac0953f686872,grp_775,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-018.jpg,MI-S-018.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,b067cc98b396b4a6,grp_776,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-020.jpg,MI-S-020.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bb6ac0813f6e68f0,grp_778,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-021.jpg,MI-S-021.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bd61cf989097b093,grp_779,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-022.jpg,MI-S-022.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fa6a85917e4ae1a1,grp_780,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-023.jpg,MI-S-023.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,ea6aca9e30e50f68,grp_781,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-024.jpg,MI-S-024.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fa62c59d35605b46,grp_782,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-025.jpg,MI-S-025.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be3e81c06a3f9781,grp_783,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-029.jpg,MI-S-029.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,ea3295c07a3ee5e0,grp_787,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-030.jpg,MI-S-030.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fe6181947e6aa1a5,grp_788,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-031.jpg,MI-S-031.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf91c06f97c06a07,grp_789,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-033.jpg,MI-S-033.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,ba5ac1a52f4ad0b5,grp_791,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-034.jpg,MI-S-034.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be2ec1c13e6eb0b0,grp_49,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-038.jpg,MI-S-038.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf4bc0b42f4b90b4,grp_795,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-039.jpg,MI-S-039.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bb4ac0b53f4ad0b4,grp_796,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-040.jpg,MI-S-040.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fe84816a7e85e05e,grp_797,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-042.jpg,MI-S-042.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be1bc0e07b1f85e0,grp_799,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-043.jpg,MI-S-043.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be91c1683b95b4ca,grp_800,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-044.jpg,MI-S-044.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bfd0c02b2fb4b04b,grp_801,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-045.jpg,MI-S-045.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf38c0852f6eb0b1,grp_802,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-046.jpg,MI-S-046.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be6ac0952f4af0a5,grp_803,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-047.jpg,MI-S-047.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bb95c06a3f95d068,grp_804,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-049.jpg,MI-S-049.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf1fc0e06a173598,grp_806,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-051.jpg,MI-S-051.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fa7885846e5ef0b0,grp_808,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-052.jpg,MI-S-052.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bfb4c0483fb4f049,grp_809,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-053.jpg,MI-S-053.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf91c06a3f95e04a,grp_810,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-054.jpg,MI-S-054.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bb3fc0c06a2f95b0,grp_811,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-055.jpg,MI-S-055.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be7ac0816f6eb0b0,grp_812,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-056.jpg,MI-S-056.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,fb9e85607a1721d8,grp_813,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-059.jpg,MI-S-059.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,bf35c04a2fb5d058,grp_816,train
+data/medicinal_leaves\Mangifera Indica (Mango)\MI-S-060.jpg,MI-S-060.jpg,Mangifera Indica (Mango),12,1600,1200,3,JPG,be3ec1813f6e90b0,grp_49,train
+data/medicinal_leaves\Mentha (Mint)\M-S-003.jpg,M-S-003.jpg,Mentha (Mint),13,1600,1200,3,JPG,b49a936dcf24cc32,grp_51,train
+data/medicinal_leaves\Mentha (Mint)\M-S-004.jpg,M-S-004.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc92c26dc7360b33,grp_820,train
+data/medicinal_leaves\Mentha (Mint)\M-S-005.jpg,M-S-005.jpg,Mentha (Mint),13,1600,1200,3,JPG,b49a934dcd34cc33,grp_51,train
+data/medicinal_leaves\Mentha (Mint)\M-S-006.jpg,M-S-006.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdd2c20f8f701963,grp_821,train
+data/medicinal_leaves\Mentha (Mint)\M-S-007.jpg,M-S-007.jpg,Mentha (Mint),13,1600,1200,3,JPG,b44dd396cf02cc6c,grp_822,train
+data/medicinal_leaves\Mentha (Mint)\M-S-008.jpg,M-S-008.jpg,Mentha (Mint),13,1600,1200,3,JPG,b6e0c20fcd3ccd38,grp_823,train
+data/medicinal_leaves\Mentha (Mint)\M-S-009.jpg,M-S-009.jpg,Mentha (Mint),13,1600,1200,3,JPG,bcc7924dcb34b432,grp_824,train
+data/medicinal_leaves\Mentha (Mint)\M-S-010.jpg,M-S-010.jpg,Mentha (Mint),13,1600,1200,3,JPG,ad92d249cb6c8d66,grp_825,train
+data/medicinal_leaves\Mentha (Mint)\M-S-013.jpg,M-S-013.jpg,Mentha (Mint),13,1600,1200,3,JPG,bd8fd2e0cb20cd23,grp_827,train
+data/medicinal_leaves\Mentha (Mint)\M-S-014.jpg,M-S-014.jpg,Mentha (Mint),13,1600,1200,3,JPG,b6f0c30fcf348ce0,grp_828,train
+data/medicinal_leaves\Mentha (Mint)\M-S-016.jpg,M-S-016.jpg,Mentha (Mint),13,1600,1200,3,JPG,bd30d2cbcb6c0c96,grp_829,train
+data/medicinal_leaves\Mentha (Mint)\M-S-017.jpg,M-S-017.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc64d2c3cd35cc58,grp_830,train
+data/medicinal_leaves\Mentha (Mint)\M-S-019.jpg,M-S-019.jpg,Mentha (Mint),13,1600,1200,3,JPG,b46cd392cb43cc99,grp_832,train
+data/medicinal_leaves\Mentha (Mint)\M-S-020.jpg,M-S-020.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc92c269cfc62cc6,grp_833,train
+data/medicinal_leaves\Mentha (Mint)\M-S-021.jpg,M-S-021.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdcfd094cb60cd30,grp_834,train
+data/medicinal_leaves\Mentha (Mint)\M-S-022.jpg,M-S-022.jpg,Mentha (Mint),13,1600,1200,3,JPG,b465c392cdcb38cc,grp_835,train
+data/medicinal_leaves\Mentha (Mint)\M-S-023.jpg,M-S-023.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4c7cb3ccd380c33,grp_836,train
+data/medicinal_leaves\Mentha (Mint)\M-S-024.jpg,M-S-024.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4b2c2c98f6ccc36,grp_837,train
+data/medicinal_leaves\Mentha (Mint)\M-S-025.jpg,M-S-025.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4c3d24dcd3c4c72,grp_838,train
+data/medicinal_leaves\Mentha (Mint)\M-S-026.jpg,M-S-026.jpg,Mentha (Mint),13,1600,1200,3,JPG,b0c3cb3ccc322ccf,grp_839,train
+data/medicinal_leaves\Mentha (Mint)\M-S-028.jpg,M-S-028.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdc0c29f8f7c8930,grp_841,train
+data/medicinal_leaves\Mentha (Mint)\M-S-029.jpg,M-S-029.jpg,Mentha (Mint),13,1600,1200,3,JPG,b463cb8dcc3836c3,grp_842,train
+data/medicinal_leaves\Mentha (Mint)\M-S-032.jpg,M-S-032.jpg,Mentha (Mint),13,1600,1200,3,JPG,e83494cacb61cbe5,grp_843,train
+data/medicinal_leaves\Mentha (Mint)\M-S-033.jpg,M-S-033.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdc2920fcb2ccd34,grp_844,train
+data/medicinal_leaves\Mentha (Mint)\M-S-034.jpg,M-S-034.jpg,Mentha (Mint),13,1600,1200,3,JPG,bd92d0cbcb2ccc34,grp_845,train
+data/medicinal_leaves\Mentha (Mint)\M-S-036.jpg,M-S-036.jpg,Mentha (Mint),13,1600,1200,3,JPG,b690c1cdc936ce9c,grp_847,train
+data/medicinal_leaves\Mentha (Mint)\M-S-038.jpg,M-S-038.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4c2c3cdcf3ccc30,grp_849,train
+data/medicinal_leaves\Mentha (Mint)\M-S-039.jpg,M-S-039.jpg,Mentha (Mint),13,1600,1200,3,JPG,b49ad28dcb6c9e60,grp_850,train
+data/medicinal_leaves\Mentha (Mint)\M-S-040.jpg,M-S-040.jpg,Mentha (Mint),13,1600,1200,3,JPG,b0cfd32ccd346433,grp_851,train
+data/medicinal_leaves\Mentha (Mint)\M-S-041.jpg,M-S-041.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4cfc324cd26ce31,grp_852,train
+data/medicinal_leaves\Mentha (Mint)\M-S-043.jpg,M-S-043.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdc2d2c9c30ccd3c,grp_854,train
+data/medicinal_leaves\Mentha (Mint)\M-S-044.jpg,M-S-044.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdc0d2cfc92ccc32,grp_855,train
+data/medicinal_leaves\Mentha (Mint)\M-S-045.jpg,M-S-045.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc61d236cb1acd89,grp_856,train
+data/medicinal_leaves\Mentha (Mint)\M-S-046.jpg,M-S-046.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc4c9296c91acdd9,grp_857,train
+data/medicinal_leaves\Mentha (Mint)\M-S-047.jpg,M-S-047.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdb0d2cbc92ccd06,grp_858,train
+data/medicinal_leaves\Mentha (Mint)\M-S-049.jpg,M-S-049.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdd0d20fcb3c6432,grp_860,train
+data/medicinal_leaves\Mentha (Mint)\M-S-050.jpg,M-S-050.jpg,Mentha (Mint),13,1600,1200,3,JPG,ad9892cdcb6ccd24,grp_861,train
+data/medicinal_leaves\Mentha (Mint)\M-S-051.jpg,M-S-051.jpg,Mentha (Mint),13,1600,1200,3,JPG,b492d3c9cf2ccc26,grp_862,train
+data/medicinal_leaves\Mentha (Mint)\M-S-053.jpg,M-S-053.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4c3c32dcf346c32,grp_863,train
+data/medicinal_leaves\Mentha (Mint)\M-S-056.jpg,M-S-056.jpg,Mentha (Mint),13,1600,1200,3,JPG,bdc2d20fcb34cc32,grp_866,train
+data/medicinal_leaves\Mentha (Mint)\M-S-057.jpg,M-S-057.jpg,Mentha (Mint),13,1600,1200,3,JPG,b492d369cf24ccc6,grp_867,train
+data/medicinal_leaves\Mentha (Mint)\M-S-059.jpg,M-S-059.jpg,Mentha (Mint),13,1600,1200,3,JPG,bcc4d29ccb9b8c31,grp_869,train
+data/medicinal_leaves\Mentha (Mint)\M-S-062.jpg,M-S-062.jpg,Mentha (Mint),13,1600,1200,3,JPG,af6a90b5cb424dc9,grp_870,train
+data/medicinal_leaves\Mentha (Mint)\M-S-064.jpg,M-S-064.jpg,Mentha (Mint),13,1600,1200,3,JPG,bcc492cbcb2ccd34,grp_872,train
+data/medicinal_leaves\Mentha (Mint)\M-S-065.jpg,M-S-065.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc9b9009cb65cd66,grp_873,train
+data/medicinal_leaves\Mentha (Mint)\M-S-067.jpg,M-S-067.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4cf9b384d3226c3,grp_874,train
+data/medicinal_leaves\Mentha (Mint)\M-S-068.jpg,M-S-068.jpg,Mentha (Mint),13,1600,1200,3,JPG,b467cb9a4d593464,grp_875,train
+data/medicinal_leaves\Mentha (Mint)\M-S-070.jpg,M-S-070.jpg,Mentha (Mint),13,1600,1200,3,JPG,b46cc392cd993c69,grp_877,train
+data/medicinal_leaves\Mentha (Mint)\M-S-071.jpg,M-S-071.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc30d26b8fc5c88e,grp_878,train
+data/medicinal_leaves\Mentha (Mint)\M-S-073.jpg,M-S-073.jpg,Mentha (Mint),13,1600,1200,3,JPG,bc30d24bcb952dca,grp_880,train
+data/medicinal_leaves\Mentha (Mint)\M-S-074.jpg,M-S-074.jpg,Mentha (Mint),13,1600,1200,3,JPG,b4cbc33c4d7034b3,grp_881,train
+data/medicinal_leaves\Mentha (Mint)\M-S-075.jpg,M-S-075.jpg,Mentha (Mint),13,1600,1200,3,JPG,b438d3d2cdcb342c,grp_882,train
+data/medicinal_leaves\Mentha (Mint)\M-S-076.jpg,M-S-076.jpg,Mentha (Mint),13,1600,1200,3,JPG,e16896b649cb652d,grp_883,train
+data/medicinal_leaves\Mentha (Mint)\M-S-077.jpg,M-S-077.jpg,Mentha (Mint),13,1600,1200,3,JPG,e1309641cbc7cdce,grp_884,train
+data/medicinal_leaves\Mentha (Mint)\M-S-078.jpg,M-S-078.jpg,Mentha (Mint),13,1600,1200,3,JPG,e19b966dc92431e3,grp_885,train
+data/medicinal_leaves\Mentha (Mint)\M-S-081.jpg,M-S-081.jpg,Mentha (Mint),13,1600,1200,3,JPG,f9c6963cca312c33,grp_888,train
+data/medicinal_leaves\Mentha (Mint)\M-S-082.jpg,M-S-082.jpg,Mentha (Mint),13,1600,1200,3,JPG,e1929e6dc98c6d92,grp_889,train
+data/medicinal_leaves\Mentha (Mint)\M-S-083.jpg,M-S-083.jpg,Mentha (Mint),13,1600,1200,3,JPG,e5b29e4b99cc6134,grp_890,train
+data/medicinal_leaves\Mentha (Mint)\M-S-086.jpg,M-S-086.jpg,Mentha (Mint),13,1600,1200,3,JPG,e53096c7d99c6519,grp_893,train
+data/medicinal_leaves\Mentha (Mint)\M-S-088.jpg,M-S-088.jpg,Mentha (Mint),13,1600,1200,3,JPG,e1929669c9a46db6,grp_895,train
+data/medicinal_leaves\Mentha (Mint)\M-S-089.jpg,M-S-089.jpg,Mentha (Mint),13,1600,1200,3,JPG,e49ac7699c663836,grp_896,train
+data/medicinal_leaves\Mentha (Mint)\M-S-091.jpg,M-S-091.jpg,Mentha (Mint),13,1600,1200,3,JPG,e194966bc8a56d36,grp_898,train
+data/medicinal_leaves\Mentha (Mint)\M-S-093.jpg,M-S-093.jpg,Mentha (Mint),13,1600,1200,3,JPG,ac3092c39bcf499e,grp_900,train
+data/medicinal_leaves\Mentha (Mint)\M-S-096.jpg,M-S-096.jpg,Mentha (Mint),13,1600,1200,3,JPG,e930964bd9cd6594,grp_903,train
+data/medicinal_leaves\Mentha (Mint)\M-S-098.jpg,M-S-098.jpg,Mentha (Mint),13,1600,1200,3,JPG,e9969678da616926,grp_905,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-001.jpg,MO-S-001.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0c7cb3c4c71328f,grp_906,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-002.jpg,MO-S-002.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b6ccc1b2cd318e33,grp_907,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-003.jpg,MO-S-003.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b2cdcb340c33c69b,grp_908,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-004.jpg,MO-S-004.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b2cdcb340c3332cf,grp_909,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-006.jpg,MO-S-006.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cdc33849733467,grp_911,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-007.jpg,MO-S-007.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cfcb3c4c333263,grp_912,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-009.jpg,MO-S-009.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c7c33ccd303473,grp_55,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-010.jpg,MO-S-010.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cdcb6ccc323c33,grp_56,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-011.jpg,MO-S-011.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cdcb1ecc6124b7,grp_913,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-012.jpg,MO-S-012.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b2c6cd382c7132cf,grp_914,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-013.jpg,MO-S-013.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cdcf302cc333ce,grp_915,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-016.jpg,MO-S-016.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b09bcb6ccc369833,grp_918,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-019.jpg,MO-S-019.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cecb614c3b326d,grp_921,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-020.jpg,MO-S-020.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b099cf66329971e4,grp_922,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-021.jpg,MO-S-021.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b19ac3699c34cb33,grp_923,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-023.jpg,MO-S-023.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cdcb3c8c323c33,grp_56,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-024.jpg,MO-S-024.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b08bcb243cb373c9,grp_925,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-026.jpg,MO-S-026.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b09ccb653c3633c9,grp_927,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-027.jpg,MO-S-027.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cbcb6c1c3270cb,grp_928,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-028.jpg,MO-S-028.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c7cb3c0c7170c7,grp_929,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-029.jpg,MO-S-029.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b03ecbe10c9f326c,grp_930,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-030.jpg,MO-S-030.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cecb380c7362cf,grp_931,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-032.jpg,MO-S-032.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cbd31ccf308c33,grp_57,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-033.jpg,MO-S-033.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cbc33c9d60d827,grp_933,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-034.jpg,MO-S-034.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c7d31ccd30cc33,grp_57,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-036.jpg,MO-S-036.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49bcb2c9c326963,grp_934,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-037.jpg,MO-S-037.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4d9c36ccd306c33,grp_935,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-038.jpg,MO-S-038.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c3c33ccf788c32,grp_936,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-039.jpg,MO-S-039.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49bc36d9c60f826,grp_937,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-040.jpg,MO-S-040.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c6c379cd342c71,grp_938,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-043.jpg,MO-S-043.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b5c0d20fcf7ccc30,grp_941,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-044.jpg,MO-S-044.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,a4cfd21c9f30c963,grp_942,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-046.jpg,MO-S-046.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b6c3c10fcd3cec30,grp_943,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-048.jpg,MO-S-048.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49cc349cfb49c62,grp_945,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-049.jpg,MO-S-049.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cfcb6c1c326963,grp_946,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-054.jpg,MO-S-054.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b48ec369cd368c33,grp_950,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-055.jpg,MO-S-055.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cdc33ecdf00c23,grp_951,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-056.jpg,MO-S-056.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,adc7921c9b38c971,grp_952,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-057.jpg,MO-S-057.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,f19a9349cf648c66,grp_953,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-058.jpg,MO-S-058.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cad20dcb64cd36,grp_954,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-059.jpg,MO-S-059.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4c7cb3ccd306433,grp_55,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-060.jpg,MO-S-060.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b48fc2e8cf358c32,grp_955,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-061.jpg,MO-S-061.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,a59ac21d9f60d927,grp_956,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-063.jpg,MO-S-063.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49ec369cd343c32,grp_60,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-064.jpg,MO-S-064.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b43cc3e1cdc7248e,grp_957,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-065.jpg,MO-S-065.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cfc33c8d306c33,grp_958,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-067.jpg,MO-S-067.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4cec369cd303c33,grp_60,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-068.jpg,MO-S-068.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b4ccc23c8f70ec33,grp_960,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-070.jpg,MO-S-070.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b0cecb6cce322c33,grp_56,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-074.jpg,MO-S-074.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49ac365cd366c92,grp_963,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-075.jpg,MO-S-075.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,a59ac36d9c26f162,grp_964,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-076.jpg,MO-S-076.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,f59ac3699c64d832,grp_965,train
+data/medicinal_leaves\Moringa Oleifera (Drumstick)\MO-S-077.jpg,MO-S-077.jpg,Moringa Oleifera (Drumstick),14,1600,1200,3,JPG,b49acb65cc66349a,grp_966,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-002.jpg,MC-S-002.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf3ec0d02f4b3434,grp_968,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-004.jpg,MC-S-004.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fd0e04b21351b,grp_970,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-005.jpg,MC-S-005.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf38d0e04b4324bf,grp_971,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-008.jpg,MC-S-008.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf60c0974f4a3ea4,grp_974,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-009.jpg,MC-S-009.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fc0f04b03341f,grp_975,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-010.jpg,MC-S-010.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fd0e04bc23435,grp_976,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-011.jpg,MC-S-011.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,beb1c04f4f94345a,grp_977,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-012.jpg,MC-S-012.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf38d0c34bc72552,grp_978,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-013.jpg,MC-S-013.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,be30d0cf4bc5345a,grp_979,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-014.jpg,MC-S-014.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf34d04a4b8564de,grp_980,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-016.jpg,MC-S-016.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bfd0d02fc9363512,grp_982,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-018.jpg,MC-S-018.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf78d09148cb35e4,grp_984,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-019.jpg,MC-S-019.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fd0e8c9e064c2,grp_985,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-021.jpg,MC-S-021.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf34d04bcba52c52,grp_987,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-022.jpg,MC-S-022.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf3c90c24b8565ce,grp_988,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-023.jpg,MC-S-023.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,eb6ac2149d913597,grp_989,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-024.jpg,MC-S-024.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf90c06bcd343e1a,grp_990,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-025.jpg,MC-S-025.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf3cd0684f85661a,grp_61,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-027.jpg,MC-S-027.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf38d0490fb6361a,grp_992,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-028.jpg,MC-S-028.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fd0f8cb212512,grp_993,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-029.jpg,MC-S-029.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf98c0698f867a1a,grp_994,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-032.jpg,MC-S-032.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf70d096c1ca27a5,grp_996,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-035.jpg,MC-S-035.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf60d095c9da464d,grp_997,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-037.jpg,MC-S-037.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf38d0834bc225ed,grp_999,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-038.jpg,MC-S-038.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf7cd001cada25a9,grp_1000,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-039.jpg,MC-S-039.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fd0e04ac32517,grp_1001,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-042.jpg,MC-S-042.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf9fc068ca253d12,grp_1004,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-045.jpg,MC-S-045.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf3ed0684b85645a,grp_61,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-046.jpg,MC-S-046.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea6b85951e94613b,grp_1005,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-047.jpg,MC-S-047.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea5a95a51e1e61f0,grp_64,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-048.jpg,MC-S-048.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea6a85a51d9e7470,grp_1006,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-049.jpg,MC-S-049.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf3fd0c049c9a525,grp_1007,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-050.jpg,MC-S-050.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,eb6b95851e1e6168,grp_1008,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-052.jpg,MC-S-052.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf9fc2608462f199,grp_1010,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-053.jpg,MC-S-053.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,bf1fc0e06c87307a,grp_1011,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-055.jpg,MC-S-055.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea4a85b51e3670d6,grp_1013,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-056.jpg,MC-S-056.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea6b85941e9470db,grp_1014,train
+data/medicinal_leaves\Muntingia Calabura (Jamaica Cherry-Gasagase)\MC-S-057.jpg,MC-S-057.jpg,Muntingia Calabura (Jamaica Cherry-Gasagase),15,1600,1200,3,JPG,ea5a95a51e1661f8,grp_64,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-001.jpg,MK-S-001.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e1b29a4d3632c9b6,grp_1015,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-003.jpg,MK-S-003.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b0309ac76d9c366b,grp_1017,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-007.jpg,MK-S-007.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e1ce96384be32c9c,grp_1021,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-009.jpg,MK-S-009.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b0cbcf34649333cc,grp_1023,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-010.jpg,MK-S-010.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e5b29a4c79346693,grp_1024,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-012.jpg,MK-S-012.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e19c9e61699696c9,grp_1026,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-013.jpg,MK-S-013.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b1338ecd66323963,grp_1027,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-014.jpg,MK-S-014.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e6999967648c2679,grp_1028,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-018.jpg,MK-S-018.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e4ce9b3165c632cc,grp_1030,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-019.jpg,MK-S-019.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b299cc663193c7c9,grp_1031,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-020.jpg,MK-S-020.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b299cfcc9c269962,grp_1032,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-021.jpg,MK-S-021.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b3cc99336c616666,grp_1033,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-023.jpg,MK-S-023.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b389cc666c333399,grp_1035,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-024.jpg,MK-S-024.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b398cd66309973cc,grp_1036,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-025.jpg,MK-S-025.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e6999a66618ec699,grp_1037,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-026.jpg,MK-S-026.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b299cd6638327371,grp_1038,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-027.jpg,MK-S-027.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b0cbcb3c6cc3b28c,grp_1039,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-029.jpg,MK-S-029.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,e4999a6661dbc698,grp_1041,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-031.jpg,MK-S-031.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bccfd048cb342d72,grp_1043,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-033.jpg,MK-S-033.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b527d2f0cf192c1c,grp_1045,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-034.jpg,MK-S-034.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bd9ed0e0cb608ca7,grp_1046,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-035.jpg,MK-S-035.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b418c361cde69c8f,grp_1047,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-036.jpg,MK-S-036.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b5ccd2180f30fc73,grp_1048,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-037.jpg,MK-S-037.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bcc7d21ecd38a431,grp_1049,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-038.jpg,MK-S-038.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,ed92d62f1b686107,grp_1050,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-039.jpg,MK-S-039.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b497c369cd168c78,grp_1051,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-041.jpg,MK-S-041.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,ad92c22f9f647826,grp_1053,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-042.jpg,MK-S-042.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,ed8cc6589e31d872,grp_1054,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-043.jpg,MK-S-043.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b4c3d31fcd38c438,grp_1055,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-044.jpg,MK-S-044.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,b86dc3964d4b323c,grp_1056,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-045.jpg,MK-S-045.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bd69c094cf1a1cb9,grp_1057,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-047.jpg,MK-S-047.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,ad38c0039fe699ce,grp_1059,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-048.jpg,MK-S-048.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bfc8d00dcb786c31,grp_1060,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-049.jpg,MK-S-049.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bc9ad269cb648ca6,grp_1061,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-050.jpg,MK-S-050.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bc61d097cb5ae429,grp_1062,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-052.jpg,MK-S-052.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bdc1d21fcb38c438,grp_1064,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-053.jpg,MK-S-053.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bdd8c20dcf740e32,grp_1065,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-054.jpg,MK-S-054.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bc3ad325cb4b8cc4,grp_1066,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-057.jpg,MK-S-057.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,adb2d00f9fec3884,grp_1069,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-059.jpg,MK-S-059.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bd92c20f8fe81ca6,grp_1071,train
+data/medicinal_leaves\Murraya Koenigii (Curry)\MK-S-060.jpg,MK-S-060.jpg,Murraya Koenigii (Curry),16,1600,1200,3,JPG,bcc7c23c4f3134c3,grp_1072,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-002.jpg,NO-S-002.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,be60ca9f30e425ad,grp_1074,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-003.jpg,NO-S-003.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,e8cf9833e61ca10f,grp_1075,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-004.jpg,NO-S-004.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea4adab634e50dc8,grp_1076,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-006.jpg,NO-S-006.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,b961cd19f316b485,grp_1078,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-007.jpg,NO-S-007.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bacaca3764c50bd8,grp_1079,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-012.jpg,NO-S-012.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,baca9a32e40df989,grp_1082,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-013.jpg,NO-S-013.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea6ac29634e50f5a,grp_68,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-016.jpg,NO-S-016.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea6a95957a7a8681,grp_1085,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-018.jpg,NO-S-018.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ee2e91c16a7e1e84,grp_1087,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-019.jpg,NO-S-019.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,fe3e8181637a1e85,grp_1088,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-020.jpg,NO-S-020.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bc65cd19f306b486,grp_1089,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-021.jpg,NO-S-021.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ee6a91912d7a5ac4,grp_1090,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-022.jpg,NO-S-022.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ae4aca16b4c53de4,grp_1091,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-023.jpg,NO-S-023.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea6a9195687a5ac5,grp_1092,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-024.jpg,NO-S-024.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,faca903569c256cd,grp_1093,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-026.jpg,NO-S-026.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea6ac29e3435e10f,grp_1095,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-027.jpg,NO-S-027.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,b465cd19e31eb087,grp_1096,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-028.jpg,NO-S-028.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,e1cd9933c63ce11c,grp_1097,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-029.jpg,NO-S-029.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,afc89a32e60dbc85,grp_1098,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-030.jpg,NO-S-030.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,afc8da32e4853de0,grp_1099,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-032.jpg,NO-S-032.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,fac2963561cb1ec8,grp_1100,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-034.jpg,NO-S-034.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,eac29e34e58f38e0,grp_1102,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-035.jpg,NO-S-035.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,facad23425e10fca,grp_69,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-037.jpg,NO-S-037.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,eacad23525e90bca,grp_69,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-038.jpg,NO-S-038.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bf60c09f34e40d5b,grp_1103,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-039.jpg,NO-S-039.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ab62c09d35e50f5a,grp_1104,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-040.jpg,NO-S-040.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,eaca9a32a52de10f,grp_1105,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-042.jpg,NO-S-042.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,e8cb9a32e62ce18d,grp_70,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-045.jpg,NO-S-045.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,fac29535e1ca1ed0,grp_1108,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-047.jpg,NO-S-047.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bec0c13f60cb1ef0,grp_1110,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-048.jpg,NO-S-048.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ba68cb1ab087ada5,grp_1111,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-049.jpg,NO-S-049.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,e8cb9a32e62de10d,grp_70,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-050.jpg,NO-S-050.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bec0ca3fe04d19d2,grp_71,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-052.jpg,NO-S-052.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,fa4a943525e91a5e,grp_1113,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-053.jpg,NO-S-053.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bfc2c03d65c81ab6,grp_1114,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-054.jpg,NO-S-054.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,ea4ac29734e50f78,grp_68,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-055.jpg,NO-S-055.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bec0c33f604d1bd2,grp_71,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-056.jpg,NO-S-056.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bf6ac0953d68ca52,grp_1115,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-058.jpg,NO-S-058.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,af60cb1ab2a72ce1,grp_1117,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-059.jpg,NO-S-059.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,abca9a36e50d78c8,grp_1118,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-061.jpg,NO-S-061.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,bfc09b32e48d39c1,grp_1120,train
+data/medicinal_leaves\Nerium Oleander (Oleander)\NO-S-062.jpg,NO-S-062.jpg,Nerium Oleander (Oleander),17,1600,1200,3,JPG,faca9234e58d3ae0,grp_1121,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-002.jpg,NA-S-002.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,be19c064c7e1c7c3,grp_1123,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-003.jpg,NA-S-003.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b139ccc7cccec384,grp_1124,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-005.jpg,NA-S-005.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b8c9c164c732cf39,grp_72,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-006.jpg,NA-S-006.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b338cfc3ccc688cc,grp_73,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-007.jpg,NA-S-007.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,bcc6c1c3c71cb278,grp_1126,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-008.jpg,NA-S-008.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b099cb64ce6f0c93,grp_1127,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-011.jpg,NA-S-011.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b138c6e38cc783ce,grp_1130,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-012.jpg,NA-S-012.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b09bc16cc6678f32,grp_1131,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-013.jpg,NA-S-013.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,be8fc8f0c5619670,grp_1132,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-015.jpg,NA-S-015.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,bf9cc064c5338769,grp_1133,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-016.jpg,NA-S-016.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b41ec3e1dc1e1d64,grp_1134,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-017.jpg,NA-S-017.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,a4c3ca3e98e1f90e,grp_1135,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-018.jpg,NA-S-018.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,bcc9c164c7334739,grp_72,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-019.jpg,NA-S-019.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b138cfc3ccc68c8e,grp_73,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-021.jpg,NA-S-021.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b019cd62cee789c6,grp_1137,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-022.jpg,NA-S-022.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b4cbc33d8d60d827,grp_1138,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-023.jpg,NA-S-023.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,bccec161cd32a669,grp_1139,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-024.jpg,NA-S-024.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b099cd26cec61ace,grp_1140,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-026.jpg,NA-S-026.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b09bc16dcd92ce49,grp_1142,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-027.jpg,NA-S-027.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b099c964ce67cc96,grp_1143,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-028.jpg,NA-S-028.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b6c3cb3c88e11cc7,grp_1144,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-029.jpg,NA-S-029.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,beccc866c433c339,grp_1145,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-030.jpg,NA-S-030.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b866c993c66cc792,grp_1146,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-031.jpg,NA-S-031.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,be99c066c366c761,grp_75,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-032.jpg,NA-S-032.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,ba99c066c365c763,grp_75,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-034.jpg,NA-S-034.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,bcc4c997c52dc632,grp_1147,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-036.jpg,NA-S-036.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,be9bc064c7928769,grp_1149,train
+data/medicinal_leaves\Nyctanthes Arbor-tristis (Parijata)\NA-S-039.jpg,NA-S-039.jpg,Nyctanthes Arbor-tristis (Parijata),18,1600,1200,3,JPG,b4ccc33c8d71d863,grp_1151,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-001.jpg,OT-S-001.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,fa6281b54fda6849,grp_1152,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-002.jpg,OT-S-002.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,eac5851e9e38da31,grp_1153,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-003.jpg,OT-S-003.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e53996c398ce9986,grp_1154,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-004.jpg,OT-S-004.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,ebc0950f963dd036,grp_1155,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-007.jpg,OT-S-007.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,bf99d0e0cb250d36,grp_1158,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-009.jpg,OT-S-009.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,eaca81ad97341e72,grp_1160,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-012.jpg,OT-S-012.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,ba95d05a87691f25,grp_1163,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-013.jpg,OT-S-013.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,bb6ad0b5859b8694,grp_1164,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-014.jpg,OT-S-014.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,fac0810f973f9a38,grp_1165,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-015.jpg,OT-S-015.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b239c3c38dc7cc2c,grp_1166,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-016.jpg,OT-S-016.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,ebe0c50f96bc9a90,grp_1167,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-017.jpg,OT-S-017.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e7319e679906998c,grp_1168,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-018.jpg,OT-S-018.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e533966998c6998e,grp_1169,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-019.jpg,OT-S-019.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e5339ec3994c994c,grp_1170,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-021.jpg,OT-S-021.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,bbc0d417c23e2f70,grp_1172,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-022.jpg,OT-S-022.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,eaca853f9a704b62,grp_1173,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-023.jpg,OT-S-023.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,fec0850fda344b72,grp_1174,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-024.jpg,OT-S-024.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,eac8953f9e706823,grp_1175,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-025.jpg,OT-S-025.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e6329acc99996599,grp_1176,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-030.jpg,OT-S-030.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,bb1991d8c2c0cbe7,grp_1179,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-031.jpg,OT-S-031.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e5329ec698329b71,grp_1180,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-032.jpg,OT-S-032.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e56cce969c329833,grp_1181,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-034.jpg,OT-S-034.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e863963cd91ac399,grp_1183,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-035.jpg,OT-S-035.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b439c7e39886996c,grp_1184,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-036.jpg,OT-S-036.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e59996c39896996c,grp_1185,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-037.jpg,OT-S-037.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b06ddb92ccc9346c,grp_1186,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-039.jpg,OT-S-039.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b4c1c31ec9386d73,grp_1188,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-041.jpg,OT-S-041.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,e5c7963c99318963,grp_1190,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-043.jpg,OT-S-043.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b464c2968fd89c9b,grp_1192,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-044.jpg,OT-S-044.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,a4d3c33d9d603966,grp_1193,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-046.jpg,OT-S-046.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b466c31e9dd93885,grp_1195,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-047.jpg,OT-S-047.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b434c3c18fcf9896,grp_1196,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-048.jpg,OT-S-048.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,a439c3c3989e3979,grp_1197,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-049.jpg,OT-S-049.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b4c7cb3c893165c3,grp_1198,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-050.jpg,OT-S-050.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b4c7cb18197332e6,grp_1199,train
+data/medicinal_leaves\Ocimum Tenuiflorum (Tulsi)\OT-S-052.jpg,OT-S-052.jpg,Ocimum Tenuiflorum (Tulsi),19,1600,1200,3,JPG,b4cfcb3c0c7130c7,grp_1201,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-002.jpg,PB-S-002.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4c6c61fca389939,grp_1203,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-003.jpg,PB-S-003.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b993934bc96ccc2c,grp_1204,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-004.jpg,PB-S-004.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e096c71a9e79cc49,grp_1205,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-005.jpg,PB-S-005.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e196977a8d698e21,grp_1206,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-006.jpg,PB-S-006.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e186961ac9799d69,grp_1207,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-007.jpg,PB-S-007.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4c2d24f9d2ccc3c,grp_1208,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-008.jpg,PB-S-008.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e4d3c21c99799963,grp_1209,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-011.jpg,PB-S-011.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4d3920dcc6cce3c,grp_1212,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-012.jpg,PB-S-012.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e1939669c96d8a3c,grp_1213,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-013.jpg,PB-S-013.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4c3c33cc938cd71,grp_1214,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-014.jpg,PB-S-014.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b0c6c71a9a39cb39,grp_1215,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-016.jpg,PB-S-016.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4c3c32dcc3ccb38,grp_1217,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-017.jpg,PB-S-017.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e186974e99699969,grp_1218,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-018.jpg,PB-S-018.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,f1c69a69cc3ccc32,grp_1219,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-019.jpg,PB-S-019.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b4c3d30fcc2ccc3c,grp_1220,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-020.jpg,PB-S-020.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,bfb5d04ac1a5cc92,grp_1221,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-022.jpg,PB-S-022.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b897936acba5cc12,grp_1223,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-024.jpg,PB-S-024.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b16cc392cc9b98d9,grp_1225,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-025.jpg,PB-S-025.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b12c9b93cc9b8cc9,grp_1226,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-027.jpg,PB-S-027.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,be96c048cfa5ce26,grp_1228,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-028.jpg,PB-S-028.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,be94c04a8fe4ce36,grp_1229,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-029.jpg,PB-S-029.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,be95c04bcf244e36,grp_1230,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-030.jpg,PB-S-030.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,e59686599c799c61,grp_1231,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-031.jpg,PB-S-031.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b8b09369cba5cdc2,grp_1232,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-032.jpg,PB-S-032.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,bc30933bc991cccb,grp_1233,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-033.jpg,PB-S-033.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b0319369cba58d6e,grp_1234,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-034.jpg,PB-S-034.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b06893b4cb5acd8d,grp_1235,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-035.jpg,PB-S-035.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,bc3993cdc9a6864a,grp_1236,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-038.jpg,PB-S-038.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,bc329369c9b4ce83,grp_1239,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-039.jpg,PB-S-039.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b03393c9cbb5cc4a,grp_1240,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-041.jpg,PB-S-041.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b03393c9cd868ccf,grp_1242,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-042.jpg,PB-S-042.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b8699394cb5bcd81,grp_1243,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-043.jpg,PB-S-043.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b03193c7cd4d86f4,grp_1244,train
+data/medicinal_leaves\Piper Betle (Betel)\PB-S-044.jpg,PB-S-044.jpg,Piper Betle (Betel),20,1600,1200,3,JPG,b439d392cd69ce24,grp_1245,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-001.jpg,PA-S-001.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c1c92ccd3ecee1,grp_78,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-003.jpg,PA-S-003.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b098cb9bcde1cc26,grp_1251,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-004.jpg,PA-S-004.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b2c3cb3ecc60cc93,grp_1252,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-005.jpg,PA-S-005.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b2cccb99cc328c73,grp_1253,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-006.jpg,PA-S-006.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b233cb26cce3cc19,grp_1254,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-007.jpg,PA-S-007.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b099c964ce3ecce2,grp_1255,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-009.jpg,PA-S-009.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c3cb2ccd3cccd1,grp_1257,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-010.jpg,PA-S-010.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c3c93ccc3ecee0,grp_78,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-011.jpg,PA-S-011.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c3c398cf3ecce0,grp_1258,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-012.jpg,PA-S-012.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0cec9cbce31c631,grp_1259,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-013.jpg,PA-S-013.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b3cccd11ce332633,grp_1260,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-014.jpg,PA-S-014.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c7cb1ecd38cc31,grp_1261,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-016.jpg,PA-S-016.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e5cdce3098b39923,grp_1263,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-017.jpg,PA-S-017.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e5c68e38986999b6,grp_1264,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-018.jpg,PA-S-018.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e6b18e679986994c,grp_1265,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-019.jpg,PA-S-019.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e59ace0cd8699936,grp_1266,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-020.jpg,PA-S-020.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b499cf31ccc79834,grp_1267,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-022.jpg,PA-S-022.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e16792c69998cdc9,grp_1269,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-023.jpg,PA-S-023.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e639cec7994c9930,grp_1270,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-024.jpg,PA-S-024.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e4ce9638c9699936,grp_1271,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-026.jpg,PA-S-026.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e1c392799b2ccd64,grp_1273,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-027.jpg,PA-S-027.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e5649a3698b2c99b,grp_1274,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-028.jpg,PA-S-028.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e4c7861cc9699cb5,grp_1275,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-029.jpg,PA-S-029.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e53396cb98cdc90c,grp_1276,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-033.jpg,PA-S-033.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e7cc9a989991c933,grp_1280,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-035.jpg,PA-S-035.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e3ce9a328939cd31,grp_1282,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-036.jpg,PA-S-036.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b033c930cd1fccf1,grp_1283,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-037.jpg,PA-S-037.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0c3d36ccd3ccc62,grp_1284,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-040.jpg,PA-S-040.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b19c93638d0ecde1,grp_1287,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-041.jpg,PA-S-041.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0989be1cd3ccc66,grp_1288,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-044.jpg,PA-S-044.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0e79b3acd18cc61,grp_1291,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-046.jpg,PA-S-046.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,b0649b33cc9bcce1,grp_1293,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-047.jpg,PA-S-047.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e57196269996c993,grp_1294,train
+data/medicinal_leaves\Plectranthus Amboinicus (Mexican Mint)\PA-S-048.jpg,PA-S-048.jpg,Plectranthus Amboinicus (Mexican Mint),21,1600,1200,3,JPG,e5319a9a99c7cd18,grp_1295,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-004.jpg,PP-S-004.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd89d0d9cb0ecd24,grp_1297,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-005.jpg,PP-S-005.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfe0d08bcb688db0,grp_80,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-007.jpg,PP-S-007.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd9fd0c8cb058d64,grp_1299,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-008.jpg,PP-S-008.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bdf0d08bcb6c8d24,grp_1300,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-009.jpg,PP-S-009.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd67c0b2cb138c99,grp_1301,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-012.jpg,PP-S-012.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bca1d0cacbbc8d1a,grp_1304,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-013.jpg,PP-S-013.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd9ad249cb64cc32,grp_1305,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-014.jpg,PP-S-014.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b431d3b08f4fcc94,grp_1306,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-015.jpg,PP-S-015.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bcd0d287cb7ccd04,grp_1307,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-016.jpg,PP-S-016.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bc30d2cfc974cc86,grp_1308,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-017.jpg,PP-S-017.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bf93d049cb248d36,grp_1309,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-018.jpg,PP-S-018.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b4cdd290cb4bccb4,grp_1310,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-019.jpg,PP-S-019.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bde0d08fcb6c8d30,grp_80,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-020.jpg,PP-S-020.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd30d0cbcb6dcd04,grp_1311,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-021.jpg,PP-S-021.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bdd0d08fca3cc934,grp_1312,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-022.jpg,PP-S-022.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd6cd0b28b92cc99,grp_1313,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-023.jpg,PP-S-023.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bde0d087cb9ecd08,grp_1314,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-024.jpg,PP-S-024.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bc81d2cbcba4cd4a,grp_1315,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-025.jpg,PP-S-025.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfe0d085cb7e8d04,grp_1316,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-026.jpg,PP-S-026.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bcd0d2cfc966c40e,grp_1317,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-029.jpg,PP-S-029.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd64d22a8bb2cd83,grp_1320,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-030.jpg,PP-S-030.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bcd1d28fcb6c8c24,grp_1321,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-031.jpg,PP-S-031.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd61d2cecb1c8d60,grp_1322,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-034.jpg,PP-S-034.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bcb0d28fcb2ccd48,grp_1325,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-035.jpg,PP-S-035.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bf70d08fcb6c8d80,grp_1326,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-040.jpg,PP-S-040.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bdcfd0c8cb08cd8c,grp_1331,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-042.jpg,PP-S-042.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,be71d287cb6a8c84,grp_1333,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-043.jpg,PP-S-043.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfccd001cb3bad30,grp_1334,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-044.jpg,PP-S-044.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfe0d08fcb3c8d10,grp_1335,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-045.jpg,PP-S-045.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bce490cacb2dcd46,grp_1336,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-046.jpg,PP-S-046.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b46cd290cf4bcca5,grp_1337,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-047.jpg,PP-S-047.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfc1d006cb7e2d30,grp_1338,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-048.jpg,PP-S-048.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b432d2cfcb6c8c86,grp_1339,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-049.jpg,PP-S-049.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd38d2c4cb4ccd94,grp_1340,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-050.jpg,PP-S-050.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b6b0d26dc996cd48,grp_1341,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-052.jpg,PP-S-052.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b06cd3b2cd4bcc94,grp_1343,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-053.jpg,PP-S-053.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b42dc392cf4bcc94,grp_1344,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-055.jpg,PP-S-055.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd93d24dcb2ccc22,grp_1346,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-056.jpg,PP-S-056.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b098c36dcd96cc4b,grp_1347,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-058.jpg,PP-S-058.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bfd1d0c1c32ccd1c,grp_1349,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-060.jpg,PP-S-060.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,bd39d2f0cb038d46,grp_1351,train
+data/medicinal_leaves\Pongamia Pinnata (Indian Beech)\PP-S-061.jpg,PP-S-061.jpg,Pongamia Pinnata (Indian Beech),22,1600,1200,3,JPG,b438d2c88f6d9cc6,grp_1352,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-001.jpg,PG-S-001.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea8585da963a9a39,grp_1353,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-002.jpg,PG-S-002.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,efe0d40f921e9e30,grp_1354,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-003.jpg,PG-S-003.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eac2858f963d9a38,grp_81,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-004.jpg,PG-S-004.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eae6850f96389ad8,grp_1355,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-005.jpg,PG-S-005.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eb68b52dd0b58296,grp_1356,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-006.jpg,PG-S-006.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea6ae5a586949eb0,grp_1357,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-007.jpg,PG-S-007.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eee08547d63e9a18,grp_1358,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-008.jpg,PG-S-008.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ebc0951f9e3c1a61,grp_1359,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-009.jpg,PG-S-009.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea2ec5e086479ec6,grp_1360,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-012.jpg,PG-S-012.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ebc0850f963eda31,grp_1363,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-013.jpg,PG-S-013.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ebc2858d973c9e30,grp_1364,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-014.jpg,PG-S-014.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,af03d4ecc284cb9e,grp_1365,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-015.jpg,PG-S-015.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afc89485d216cb3e,grp_1366,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-016.jpg,PG-S-016.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afd0e40bc20f8e7c,grp_1367,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-017.jpg,PG-S-017.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eb5a942dd2f09b82,grp_1368,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-019.jpg,PG-S-019.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afc0948bd21f8b3c,grp_82,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-020.jpg,PG-S-020.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ef379472c2a18b45,grp_1370,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-021.jpg,PG-S-021.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ef69c4a5c2c09ec6,grp_1371,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-022.jpg,PG-S-022.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,e92585d2865e9e2d,grp_1372,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-023.jpg,PG-S-023.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afc0d487c21f9a3c,grp_1373,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-027.jpg,PG-S-027.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea62a58bd515933c,grp_1377,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-028.jpg,PG-S-028.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afc0940fd21f9b38,grp_82,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-029.jpg,PG-S-029.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,efe0c407d63e9a30,grp_1378,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-030.jpg,PG-S-030.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,af689485c2de8b9a,grp_1379,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-031.jpg,PG-S-031.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afc8b505d21f9a38,grp_1380,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-032.jpg,PG-S-032.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,af25d4d2c28b839d,grp_1381,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-034.jpg,PG-S-034.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea6a8585971c9eb8,grp_1383,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-036.jpg,PG-S-036.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,af61d426c2b68bd2,grp_1385,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-039.jpg,PG-S-039.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ef6fa424c4e48a96,grp_1388,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-040.jpg,PG-S-040.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea2ea564c6249ec7,grp_1389,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-042.jpg,PG-S-042.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ef689505d27e8ac2,grp_1390,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-043.jpg,PG-S-043.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea48a1ad97d59e82,grp_1391,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-044.jpg,PG-S-044.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eb49c585c6b49b32,grp_1392,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-045.jpg,PG-S-045.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,e9e0851f9e3c9a31,grp_1393,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-046.jpg,PG-S-046.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,eac2858f963e9a70,grp_81,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-047.jpg,PG-S-047.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,e86a9525d2b49e96,grp_1394,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-048.jpg,PG-S-048.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ef6a842592d61b9a,grp_1395,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-053.jpg,PG-S-053.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ad4dd0b4cb128f39,grp_1399,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-054.jpg,PG-S-054.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea60c52796fc9e84,grp_1400,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-055.jpg,PG-S-055.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ebe08507d61d9a3c,grp_1401,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-056.jpg,PG-S-056.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,afcad485921c9b72,grp_1402,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-061.jpg,PG-S-061.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea4e85b997119a3a,grp_1406,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-062.jpg,PG-S-062.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,ea6285ad9e1c9ab2,grp_1407,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-063.jpg,PG-S-063.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,efb4c44296ab9a4c,grp_1408,train
+data/medicinal_leaves\Psidium Guajava (Guava)\PG-S-065.jpg,PG-S-065.jpg,Psidium Guajava (Guava),23,1600,1200,3,JPG,efc2948dd23c9a38,grp_1410,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-001.jpg,PG-S-001.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fb94815e1e217c93,grp_1411,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-002.jpg,PG-S-002.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,b59bc2698f2c3c64,grp_1412,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-003.jpg,PG-S-003.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fab5814a4fa53896,grp_1413,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-004.jpg,PG-S-004.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf96d068cf250e32,grp_1414,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-005.jpg,PG-S-005.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af97c06a0f2532e6,grp_1415,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-006.jpg,PG-S-006.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af1edae1d06c2623,grp_1416,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-007.jpg,PG-S-007.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ef95c06a9d67302c,grp_1417,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-008.jpg,PG-S-008.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bb27d0d04bcb352c,grp_1418,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-009.jpg,PG-S-009.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,b8c3d33e4f70a413,grp_1419,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-010.jpg,PG-S-010.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ea6a85b51bd2704b,grp_1420,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-012.jpg,PG-S-012.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bef0c11f1be03496,grp_1422,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-013.jpg,PG-S-013.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,b99cce678462b169,grp_1423,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-014.jpg,PG-S-014.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,b49ecf61c4667324,grp_1424,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-015.jpg,PG-S-015.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af6bd0840bc27c1f,grp_1425,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-016.jpg,PG-S-016.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf9eca618463d063,grp_1426,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-017.jpg,PG-S-017.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af97c068fcc56292,grp_1427,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-018.jpg,PG-S-018.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,eeb78560da87291c,grp_1428,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-019.jpg,PG-S-019.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ec6985961ace6179,grp_1429,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-020.jpg,PG-S-020.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa99856a1fa57092,grp_1430,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-023.jpg,PG-S-023.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf94c0508f2f54b6,grp_1433,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-025.jpg,PG-S-025.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,eeb5814a3d2d74b0,grp_1435,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-027.jpg,PG-S-027.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa3485c35e8b6934,grp_1437,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-028.jpg,PG-S-028.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf3f94c0c8e561d0,grp_1438,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-030.jpg,PG-S-030.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,eab5855a9e2f1864,grp_1440,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-032.jpg,PG-S-032.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa4985b65a5869c3,grp_1441,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-033.jpg,PG-S-033.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ea95c16a9d273638,grp_1442,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-034.jpg,PG-S-034.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa9dc740ac65321e,grp_1443,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-038.jpg,PG-S-038.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,afd2d42d0b709d86,grp_1447,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-040.jpg,PG-S-040.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,eae894171af861cb,grp_1448,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-043.jpg,PG-S-043.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fb97c06a2f2530aa,grp_1451,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-044.jpg,PG-S-044.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ba6ec1914fda7848,grp_1452,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-045.jpg,PG-S-045.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa5385ac5a7428ab,grp_1453,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-046.jpg,PG-S-046.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,e8c3953c5a60cfa3,grp_1454,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-047.jpg,PG-S-047.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa95c1488d67347a,grp_1455,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-048.jpg,PG-S-048.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ba1e81e14f0f2cdc,grp_1456,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-050.jpg,PG-S-050.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ee3c97c2c8ad6314,grp_1458,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-051.jpg,PG-S-051.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf1dc0e04fa7341a,grp_1459,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-052.jpg,PG-S-052.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af60d0970ada3d69,grp_1460,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-054.jpg,PG-S-054.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,f86e81899e3718da,grp_1462,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-058.jpg,PG-S-058.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,eab59542990e65f1,grp_1466,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-059.jpg,PG-S-059.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fabd854a5eaf6010,grp_1467,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-060.jpg,PG-S-060.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ab9dd4f09a05299e,grp_1468,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-062.jpg,PG-S-062.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af34d4ca0b8f493c,grp_1470,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-063.jpg,PG-S-063.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,fa7981a51f9e6068,grp_1471,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-065.jpg,PG-S-065.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf60c094cfda2c69,grp_1473,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-066.jpg,PG-S-066.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf3792c0699c8762,grp_1474,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-068.jpg,PG-S-068.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,afc8d0171b7a2dc1,grp_1476,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-069.jpg,PG-S-069.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ea6a95953852616f,grp_1477,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-070.jpg,PG-S-070.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af94d04b4b353ce2,grp_1478,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-073.jpg,PG-S-073.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,f897c16897359a61,grp_1481,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-074.jpg,PG-S-074.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,ea2c85c35b9b2978,grp_1482,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-075.jpg,PG-S-075.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,bf1fc0e06c962339,grp_1483,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-077.jpg,PG-S-077.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af1fd4e84a85251e,grp_1485,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-079.jpg,PG-S-079.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,a91f95f0ca032d3e,grp_1486,train
+data/medicinal_leaves\Punica Granatum (Pomegranate)\PG-S-080.jpg,PG-S-080.jpg,Punica Granatum (Pomegranate),24,1600,1200,3,JPG,af30d403cabd8dd8,grp_1487,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-001.jpg,SA-S-001.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e96896a5cb1acc8b,grp_1488,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-002.jpg,SA-S-002.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bc69c2968f9a8cc9,grp_1489,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-003.jpg,SA-S-003.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e83595cacb99cc85,grp_1490,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-004.jpg,SA-S-004.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e8a1951edee2c887,grp_1491,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-005.jpg,SA-S-005.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ec24c6729f85d878,grp_1492,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-006.jpg,SA-S-006.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,f8188564cac32def,grp_1493,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-011.jpg,SA-S-011.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e96896b58fd20c8b,grp_1498,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-012.jpg,SA-S-012.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b9c9960ecb702d33,grp_1499,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-014.jpg,SA-S-014.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e96c9065c3928fd3,grp_1500,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-019.jpg,SA-S-019.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b9c1954ecb2ccd34,grp_1505,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-020.jpg,SA-S-020.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e5c3921ccb78cd31,grp_1506,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-021.jpg,SA-S-021.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ad36d2618be1c98e,grp_1507,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-025.jpg,SA-S-025.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,f94b958d8714ce32,grp_1511,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-026.jpg,SA-S-026.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bd6b90a4c312cf93,grp_1512,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-028.jpg,SA-S-028.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ea6990958f1a7cc9,grp_1514,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-029.jpg,SA-S-029.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b865d296cf1acc19,grp_1515,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-030.jpg,SA-S-030.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e9629795ce5a6829,grp_1516,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-031.jpg,SA-S-031.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b9639095cbdacd09,grp_1517,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-032.jpg,SA-S-032.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b8c8972dcb528da3,grp_1518,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-034.jpg,SA-S-034.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bf2c90c3ca92cd99,grp_1520,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-035.jpg,SA-S-035.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,f84a92b58f9a4c59,grp_1521,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-036.jpg,SA-S-036.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ba94856ecf99cc11,grp_1522,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-037.jpg,SA-S-037.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e94992b4cb5accc9,grp_1523,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-038.jpg,SA-S-038.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e883970dcf6c6c32,grp_1524,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-039.jpg,SA-S-039.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,f897854a8e25f872,grp_1525,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-040.jpg,SA-S-040.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bd1890f0cb60cde7,grp_1526,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-041.jpg,SA-S-041.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bdc3d29ccb588c31,grp_1527,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-042.jpg,SA-S-042.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e8c89537da324973,grp_1528,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-044.jpg,SA-S-044.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e84b95a5dad2cc2a,grp_1529,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-045.jpg,SA-S-045.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ba4a95b5cb526c23,grp_1530,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-046.jpg,SA-S-046.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e8629735de921c9a,grp_1531,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-047.jpg,SA-S-047.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b8c2910fcabccd3c,grp_1532,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-048.jpg,SA-S-048.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,be38d04acb85cdc6,grp_1533,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-050.jpg,SA-S-050.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bd3892e0cb92cdc3,grp_1535,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-051.jpg,SA-S-051.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,ad3e9064cbb2c9c3,grp_1536,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-052.jpg,SA-S-052.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,b8c9950fcb3cad30,grp_1537,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-054.jpg,SA-S-054.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bc6e9290cb09cdbc,grp_1539,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-056.jpg,SA-S-056.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,f895955ac32dce24,grp_1541,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-057.jpg,SA-S-057.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,bd65c2968cb8d239,grp_1542,train
+data/medicinal_leaves\Santalum Album (Sandalwood)\SA-S-058.jpg,SA-S-058.jpg,Santalum Album (Sandalwood),25,1600,1200,3,JPG,e9c89634cb7acc25,grp_1543,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-001.jpg,SC-S-001.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,b54dc3968f92981b,grp_1544,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-002.jpg,SC-S-002.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,e9c1961f9ab08973,grp_1545,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-004.jpg,SC-S-004.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,eac6851f9a389b61,grp_1547,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-005.jpg,SC-S-005.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,e9689525ceb68e92,grp_1548,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-006.jpg,SC-S-006.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,eac0958fd21ecb38,grp_86,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-007.jpg,SC-S-007.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,eaca959c9e30d872,grp_1549,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-009.jpg,SC-S-009.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,bdc3900fcb1ccd34,grp_1551,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-010.jpg,SC-S-010.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,b4e3d28ecb9cc918,grp_1552,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-012.jpg,SC-S-012.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,eac0958fda3ccb30,grp_86,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-013.jpg,SC-S-013.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,e9cb961eda700963,grp_1553,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-014.jpg,SC-S-014.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,ad4bd0a58b96de12,grp_1554,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-015.jpg,SC-S-015.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,b969c39e9c929cb0,grp_1555,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-019.jpg,SC-S-019.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,ebe8d427cab099d0,grp_1558,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-020.jpg,SC-S-020.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,e9c2971d9a38c971,grp_1559,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-023.jpg,SC-S-023.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,bdc2940fda7c6930,grp_1562,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-026.jpg,SC-S-026.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,bfc2d00fcb3c8d30,grp_1564,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-027.jpg,SC-S-027.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,f99c95c8960fca64,grp_1565,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-028.jpg,SC-S-028.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,afc1d01fcb3a4d30,grp_1566,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-029.jpg,SC-S-029.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,e949979d98329933,grp_1567,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-030.jpg,SC-S-030.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,adc1d60fda3899b0,grp_1568,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-031.jpg,SC-S-031.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,adc0920fda3ce936,grp_1569,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-033.jpg,SC-S-033.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,bbc2d40fda3cc930,grp_1571,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-034.jpg,SC-S-034.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,f8e19507ca1ecb98,grp_1572,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-035.jpg,SC-S-035.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,adc9921f9b38c931,grp_1573,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-036.jpg,SC-S-036.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,ed6294a59b1ed891,grp_1574,train
+data/medicinal_leaves\Syzygium Cumini (Jamun)\SC-S-039.jpg,SC-S-039.jpg,Syzygium Cumini (Jamun),26,1600,1200,3,JPG,ebc0940f96fc9b18,grp_1577,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-001.jpg,SJ-S-001.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,eb4a98b3a68c3963,grp_1578,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-002.jpg,SJ-S-002.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4ada92a6aca9a3,grp_1579,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-003.jpg,SJ-S-003.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9893b3a68c,grp_88,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-006.jpg,SJ-S-006.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ba60cb9ab0b7b186,grp_1580,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-007.jpg,SJ-S-007.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ab68ca9ab087b5a6,grp_91,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-009.jpg,SJ-S-009.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,aa6aca9ab087b4a7,grp_91,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-013.jpg,SJ-S-013.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,e84ada90b7a4ada9,grp_93,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-015.jpg,SJ-S-015.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4ad891b7a498b6,grp_1584,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-016.jpg,SJ-S-016.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea68ca9a98b087bd,grp_1585,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-018.jpg,SJ-S-018.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9e9031e38e,grp_1587,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-020.jpg,SJ-S-020.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9cb087b1a6,grp_94,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-023.jpg,SJ-S-023.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea62ca9cb099b3a6,grp_95,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-024.jpg,SJ-S-024.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9eb0a7ada08e,grp_96,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-026.jpg,SJ-S-026.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,aa6ac29fb085b3a6,grp_1590,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-027.jpg,SJ-S-027.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9cb0a5871e,grp_1591,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-028.jpg,SJ-S-028.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,aa68ca9ab0a7bca5,grp_97,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-029.jpg,SJ-S-029.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea68ca9ab087b1a7,grp_91,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-031.jpg,SJ-S-031.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9eb0a59fb284,grp_98,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-033.jpg,SJ-S-033.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea68c29eb0a5bda2,grp_1593,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-034.jpg,SJ-S-034.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ae60ca9eb0a5b5a3,grp_1594,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-035.jpg,SJ-S-035.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9eb0a5afa0ac,grp_96,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-036.jpg,SJ-S-036.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,e26aca9893b6a6ac,grp_88,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-037.jpg,SJ-S-037.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca98b187b986,grp_94,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-038.jpg,SJ-S-038.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9eb0a5afa0ac,grp_96,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-039.jpg,SJ-S-039.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9a9a30a787,grp_99,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-040.jpg,SJ-S-040.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9a9233a78c,grp_88,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-041.jpg,SJ-S-041.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4ada90b387b0a7,grp_1595,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-042.jpg,SJ-S-042.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9a9ab0a785,grp_99,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-043.jpg,SJ-S-043.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6ac29eb099b386,grp_95,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-045.jpg,SJ-S-045.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4ada90b7a48cb9,grp_93,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-046.jpg,SJ-S-046.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ae68ca9eb09396b4,grp_1596,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-047.jpg,SJ-S-047.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,aa6aca9ab0a7bca1,grp_97,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-048.jpg,SJ-S-048.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea62ce9cb087b2a6,grp_94,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-049.jpg,SJ-S-049.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a97b4a1bba28c,grp_1597,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-050.jpg,SJ-S-050.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ab6aca9eb087b186,grp_91,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-051.jpg,SJ-S-051.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9e34e19fb284,grp_98,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-052.jpg,SJ-S-052.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea6aca9af087b0a6,grp_94,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-053.jpg,SJ-S-053.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,e86acada98b0b7a4,grp_1598,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-054.jpg,SJ-S-054.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,ea4a9a30a5ada8af,grp_1599,train
+data/medicinal_leaves\Syzygium Jambos (Rose Apple)\SJ-S-055.jpg,SJ-S-055.jpg,Syzygium Jambos (Rose Apple),27,1600,1200,3,JPG,eaca9e34a53ea429,grp_1600,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-001.jpg,TD-S-001.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,f87891a18fd6c88e,grp_1602,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-002.jpg,TD-S-002.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e91a97e1de4e09a4,grp_1603,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-004.jpg,TD-S-004.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bc4ed2c4cb1b1d31,grp_1605,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-006.jpg,TD-S-006.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bd1dd0e0cb028dbd,grp_1607,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-007.jpg,TD-S-007.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ad6bd0b48b429c9b,grp_1608,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-008.jpg,TD-S-008.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ee3c94c2d9cd4781,grp_1609,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-010.jpg,TD-S-010.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e1cb961c9af19836,grp_1611,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-011.jpg,TD-S-011.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bd3ac0f08b438e2f,grp_1612,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-012.jpg,TD-S-012.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e83a95c1da0f69b8,grp_1613,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-013.jpg,TD-S-013.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,af0fc0f0d2439e17,grp_1614,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-014.jpg,TD-S-014.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e89d857a1a6569c6,grp_1615,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-015.jpg,TD-S-015.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bf2cc0d44b8b2d4d,grp_1616,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-016.jpg,TD-S-016.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bd39c0e49f0a38f8,grp_1617,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-019.jpg,TD-S-019.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,eb2594e09a8799dc,grp_1620,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-021.jpg,TD-S-021.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ad1fd0e0cb160ce7,grp_1622,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-022.jpg,TD-S-022.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,b9978748ce253c36,grp_1623,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-025.jpg,TD-S-025.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ea3c95c15a2f29f0,grp_1626,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-026.jpg,TD-S-026.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e96b85859e1a38f8,grp_1627,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-027.jpg,TD-S-027.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,f89685785a253cd6,grp_1628,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-028.jpg,TD-S-028.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,e84a85ad9f14d8f2,grp_1629,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-029.jpg,TD-S-029.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ed8cc45a1b3179c6,grp_1630,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-030.jpg,TD-S-030.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ad69c0e58f12dcd2,grp_1631,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-031.jpg,TD-S-031.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bf9f80e8c2612d36,grp_1632,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-033.jpg,TD-S-033.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,eb3394c29a8dd89c,grp_1634,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-034.jpg,TD-S-034.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,f819c5c0de262cf6,grp_1635,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-036.jpg,TD-S-036.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bd39c0f08f8b2ccc,grp_1637,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-037.jpg,TD-S-037.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,eb8f85e0da391923,grp_1638,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-039.jpg,TD-S-039.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ef3cc4e11a1e61e8,grp_1640,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-040.jpg,TD-S-040.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,eb3c85e0da0789dc,grp_1641,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-041.jpg,TD-S-041.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bdc9c0a58ff07c03,grp_1642,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-043.jpg,TD-S-043.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,af1f85d0dae0ca07,grp_1644,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-044.jpg,TD-S-044.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bff0c20b8f3c9c42,grp_1645,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-045.jpg,TD-S-045.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bbc8c0a58e72dcb1,grp_1646,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-046.jpg,TD-S-046.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,bc36d260cb25cccb,grp_1647,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-048.jpg,TD-S-048.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ed9cc6c09e277870,grp_1649,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-051.jpg,TD-S-051.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ba3c91c2cb852dd6,grp_1652,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-052.jpg,TD-S-052.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ad27c0f00a9b3d1f,grp_1653,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-053.jpg,TD-S-053.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,ee91c54a1e657866,grp_1654,train
+data/medicinal_leaves\Tabernaemontana Divaricata (Crape Jasmine)\TD-S-056.jpg,TD-S-056.jpg,Tabernaemontana Divaricata (Crape Jasmine),28,1600,1200,3,JPG,b83487c3ca8799dc,grp_1657,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-003.jpg,TF-S-003.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,b2cccd3331c66699,grp_1660,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-004.jpg,TF-S-004.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,b3e7cc3830c73332,grp_1661,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-005.jpg,TF-S-005.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e6ce99314c3366cc,grp_1662,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-006.jpg,TF-S-006.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e6999966318e6699,grp_1663,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-008.jpg,TF-S-008.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,b2cdcd3034cf9b18,grp_1665,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-009.jpg,TF-S-009.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,b333cc99cccc3926,grp_1666,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-010.jpg,TF-S-010.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,b2cc9933663332cd,grp_1667,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-011.jpg,TF-S-011.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e664999b64c93366,grp_1668,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-012.jpg,TF-S-012.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e664999b6d656624,grp_100,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-013.jpg,TF-S-013.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e664999b69616666,grp_100,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-014.jpg,TF-S-014.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e6cc99334d6664cc,grp_1669,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-015.jpg,TF-S-015.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e63299cc65936666,grp_1670,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-016.jpg,TF-S-016.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e665999a99616666,grp_1671,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-017.jpg,TF-S-017.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e4999a6919666766,grp_1672,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-019.jpg,TF-S-019.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e667998c99998999,grp_1674,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-021.jpg,TF-S-021.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e59c9a31596664dc,grp_1676,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-022.jpg,TF-S-022.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e49b9a6733cc6464,grp_1677,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-023.jpg,TF-S-023.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e6989a6139c6673c,grp_1678,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-024.jpg,TF-S-024.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e7cc9961cd26cc13,grp_1679,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-026.jpg,TF-S-026.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e46d9a926349ce66,grp_1681,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-028.jpg,TF-S-028.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e5999a663b6464cc,grp_1683,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-031.jpg,TF-S-031.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e664999bcd392664,grp_1686,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-032.jpg,TF-S-032.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e69a9a3119e6669c,grp_1687,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-034.jpg,TF-S-034.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e69999646c3266d9,grp_1689,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-035.jpg,TF-S-035.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e79a9669d96c2924,grp_1690,train
+data/medicinal_leaves\Trigonella Foenum-graecum (Fenugreek)\TF-S-036.jpg,TF-S-036.jpg,Trigonella Foenum-graecum (Fenugreek),29,1600,1200,3,JPG,e79898656d92326d,grp_1691,train
