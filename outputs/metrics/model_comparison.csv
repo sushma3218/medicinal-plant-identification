@@ -1,0 +1,5 @@
+Model,Pretrained,Total_Params,Val_Accuracy,Val_Macro_F1,Latency_CPU_ms,Checkpoint_Size_MB,Training_Time_s
+custom_cnn,False,426398,0.3879,0.2412,4.3,1.64,191.5
+resnet50,True,24573534,0.9858,0.9865,31.09,94.05,629.2
+efficientnet_b0,True,4679834,0.9573,0.9579,17.79,18.14,348.5
+mobilenet_v3_large,True,3480398,0.9466,0.9479,8.11,13.48,185.4

@@ -1,0 +1,42 @@
+[
+  {
+    "Model": "custom_cnn",
+    "Pretrained": false,
+    "Total_Params": 426398,
+    "Val_Accuracy": 0.3879,
+    "Val_Macro_F1": 0.2412,
+    "Latency_CPU_ms": 4.3,
+    "Checkpoint_Size_MB": 1.64,
+    "Training_Time_s": 191.5
+  },
+  {
+    "Model": "resnet50",
+    "Pretrained": true,
+    "Total_Params": 24573534,
+    "Val_Accuracy": 0.9858,
+    "Val_Macro_F1": 0.9865,
+    "Latency_CPU_ms": 31.09,
+    "Checkpoint_Size_MB": 94.05,
+    "Training_Time_s": 629.2
+  },
+  {
+    "Model": "efficientnet_b0",
+    "Pretrained": true,
+    "Total_Params": 4679834,
+    "Val_Accuracy": 0.9573,
+    "Val_Macro_F1": 0.9579,
+    "Latency_CPU_ms": 17.79,
+    "Checkpoint_Size_MB": 18.14,
+    "Training_Time_s": 348.5
+  },
+  {
+    "Model": "mobilenet_v3_large",
+    "Pretrained": true,
+    "Total_Params": 3480398,
+    "Val_Accuracy": 0.9466,
+    "Val_Macro_F1": 0.9479,
+    "Latency_CPU_ms": 8.11,
+    "Checkpoint_Size_MB": 13.48,
+    "Training_Time_s": 185.4
+  }
+]
